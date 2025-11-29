@@ -1,28 +1,36 @@
 {
+  /* The name displayed in the VS Code window status bar */
   "name": "Jekyll",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
-  "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
-  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  
+  /* The Docker image to use. We pin this to Ruby 3.4.4 to match the Cloudflare Pages environment. */
+  "image": "mcr.microsoft.com/devcontainers/jekyll:3.4.4",
+
+  /* Command to run after the container is created but before the folder is opened. */
+  "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}", /* Adds the repository to Git's list of safe directories */
+
+  /* Command to run after the container is created and fully started. */
+  "postCreateCommand": "bundle install && bash .devcontainer/post-create.sh", /* Installs all Ruby dependencies, then runs the existing Chirpy setup script */
+
+  /* VS Code-specific settings to customize the container experience */
   "customizations": {
     "vscode": {
+
+      /* VS Code Editor settings */
       "settings": {
-        "terminal.integrated.defaultProfile.linux": "zsh"
+        "terminal.integrated.defaultProfile.linux": "zsh" /* Sets the default shell inside the terminal to Zsh */
       },
+
+      /* VS Code extensions to automatically install inside the container */
       "extensions": [
-        // Liquid tags auto-complete
-        "killalau.vscode-liquid-snippets",
-        // Liquid syntax highlighting and formatting
-        "Shopify.theme-check-vscode",
-        // Shell
-        "timonwong.shellcheck",
-        "mkhl.shfmt",
-        // Common formatter
-        "EditorConfig.EditorConfig",
-        "esbenp.prettier-vscode",
-        "stylelint.vscode-stylelint",
-        "yzhang.markdown-all-in-one",
-        // Git
-        "mhutchie.git-graph"
+        "killalau.vscode-liquid-snippets", /* Liquid tags auto-complete */
+        "Shopify.theme-check-vscode", /* Liquid syntax highlighting and formatting */
+        "timonwong.shellcheck", /* Lints Shell scripts for errors */
+        "mkhl.shfmt", /* Formats Shell scripts */
+        "EditorConfig.EditorConfig", /* Ensures consistent indentation and file settings */
+        "esbenp.prettier-vscode", /* General code formatter */
+        "stylelint.vscode-stylelint", /* Lints CSS/SASS files */
+        "yzhang.markdown-all-in-one", /* Provides enhanced Markdown editing features */
+        "mhutchie.git-graph" /* Visualizes Git history and branches */
       ]
     }
   }
