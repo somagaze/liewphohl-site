@@ -3,7 +3,7 @@
   "name": "Jekyll",
   
   /* The Docker image to use. We pin this to Ruby 3.4.4 to match the Cloudflare Pages environment. */
-  "image": "mcr.microsoft.com/devcontainers/jekyll:3.4.4",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:3.4-bookworm",
 
   /* Command to run after the container is created but before the folder is opened. */
   "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}", /* Adds the repository to Git's list of safe directories */
