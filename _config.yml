@@ -24,7 +24,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://liewphohl.net/"
 
 github:
   username: somagaze # change to your GitHub username
@@ -41,8 +41,8 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: f-kFx5n6Bbu1SUmskgY_PcaStsBgDRKw5_fkVd7S218 # fill in your Google verification code
+  bing: 5C811980D111D14423C90F418ABE22FA # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -54,7 +54,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 2T1RCPZRSD # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -64,7 +64,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 7fc0e43106d742799aa24b891ef4c7c8 # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -145,7 +145,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://liewphohl.net/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
