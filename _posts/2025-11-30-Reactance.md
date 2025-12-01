@@ -1,6 +1,6 @@
 ---
 title: Reactance
-description: An allusive, paronomastic, acrostical, and metatextual adventure.
+description: A short, allusive, paronomastic, acrostical, and metatextual adventure.
 date: 2025-11-30 12:45
 permalink: /2
 categories: [short story, anecdote]
