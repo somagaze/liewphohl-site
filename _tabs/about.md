@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 >   An echo chamber of one. Laws, lyrics, lore, leitmotif, and lother stuff. Dissected with curiosity and reconstructed with disregard for convention. A meticulously chaotic exploration of everything that is nothing in particular. Strategerically awful on purpose, and the best of what's left.
