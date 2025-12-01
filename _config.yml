@@ -16,10 +16,11 @@ timezone: America/Los_Angeles
 
 title: Liewphohl # the main title
 
-tagline: Everything is deliberate. # it will display as the subtitle
+tagline: |
+  Everything is deliberate.<br><br>An echo chamber of one. Laws, lyrics, lore, leitmotif, and lother stuff. Dissected with curiosity and reconstructed with disregard for convention. A meticulously chaotic exploration of everything that is nothing in particular. Strategerically awful on purpose, and the best of what's left.
 
 description: >- # used by seo meta and the atom feed
-  An echo chamber of one. Laws, lyrics, lore, leitmotif, and lother stuff. Dissected with curiosity and reconstructed with disregard for convention. A meticulously chaotic exploration of everything that is nothing in particular. Satrtegically awful on purpose, and the best of what's left.
+  An echo chamber of one. Strategerically absurd satire, analsysis, and thought experiments about law, lyrics, lore, leitmotif, and lother stuff.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
