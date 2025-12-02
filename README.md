@@ -10,5 +10,5 @@ I muse, I word-vomit: a site to put my writings. Using [jekyll][jekyll] static s
 
 [jekyll]: https://github.com/jekyll/jekyll
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy
-[mit]: https://github.com/somagaze/liewphohl-site/blob/main/THEME_LICENSE
-[ccbync]: https://github.com/somagaze/liewphohl-site/blob/main/CONTENT_LICENSE
+[mit]: https://github.com/somagaze/liewphohl-site/blob/main/LICENSE_THEME
+[ccbync]: https://github.com/somagaze/liewphohl-site/blob/main/LICENSE_CONTENT
