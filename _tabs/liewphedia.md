@@ -13,7 +13,7 @@ The product of an over-caffeinated brain and its lifelong commitment to conceptu
 
 ### What You Will Gain.
 
-You'll learn several very specific, highly unqualified assertions, much in the same way a damp sponge absorbs hubris. Topical substance wrung to completion, replete with trial and no error (as long as you concede the defintion of "error" is wrong). Have funn (the first "n" is slient, like in "knuckle").
+You'll learn several very specific, highly unqualified assertions, much in the same way a damp sponge absorbs hubris. Topical substance wrung to completion, replete with trial and no error (as long as you concede the definition of "error" is wrong). Have funn (the first "n" is silent, like in "knuckle").
 
 ### What You Will Lose.
 

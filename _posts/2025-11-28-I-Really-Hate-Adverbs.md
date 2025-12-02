@@ -52,7 +52,7 @@ The intended audience of a legitimate lawsuit—judge, opposing counsel, others 
 
 The former argues with circular reasoning. An argument by assertion, where a claim is true because it is obviously true. A reader then asks, if it is true, why is it true? If it is clearly true, what facts make it clear that the facts make it true? The manner of establishing a claim is not a substitute for establishment via substance.
 
-Likewise, the latter strives to bypass a reader's critical thought and hijack their emotional state. It demands belief without basis in fact; it tells the reader there is no use in fact-checking, because it is a waste of valuable mental effort. Instead, believe and trust the author, and join them in anger, outrage, and disgust through afilliative loyalty.
+Likewise, the latter strives to bypass a reader's critical thought and hijack their emotional state. It demands belief without basis in fact; it tells the reader there is no use in fact-checking, because it is a waste of valuable mental effort. Instead, believe and trust the author, and join them in anger, outrage, and disgust through affiliative loyalty.
 
 Experienced counsel, the consciously competent author, is attempting to manipulate the reader and direct their response with purposeful incompetence. Experienced counsel is aware the claim lacks legitimacy. It is a calculated act of political performance. An unsophisticated reader, or one susceptible to cognitive bias, is more likely to accept this performance because the court system provides a veneer of legitimacy, as opposed to the performative art that is cable news punditry.
 
@@ -77,7 +77,7 @@ The punchline, though, is the subsequent sentence. The affiant claims 98% of vot
 
 The ultimate irony is that the paragraph, so meticulously deployed to conceal the precise number of ballots, is mathematically unaware that two ballots for Trump instinctively dictates approximately 98 ballots for President Biden. But implying 98% of all ballots is sexier than 98 ballots out of a sample of 100. Regardless, a keen reader deconstructs this claim; they take note of strategic placement of the, 1) global qualifier; 2) precision masked by a vague modifier; and 3) tailing sentence that submerges the single concrete assertion. This is anchoring.
 
-The strategic use of biases, such as anchoring, to make a claim costs an author credibility, because instead of backing up a claim with evidence, they attempt to obfuscate and manipulate. A Sophist's Gambit of legal writing. A consciously incompetent tactician understands this erodes a legal reader's trust, and yet purposely employs it.
+The strategic use of biases, such as anchoring, to make a claim costs an author credibility, because instead of backing up a claim with evidence, they attempt to obfuscate and manipulate. A [Sophist's Gambit](/liewphedia/sophists-gambit) of legal writing. A consciously incompetent tactician understands this erodes a legal reader's trust, and yet purposely employs it.
 
 With this example, given the source of the claim is an affidavit, it is likely that counsel engaged in rhetorical conditioning to craft the testimony to fit a narrative. This represents another exploitation of the legal system's veneer of legitimacy to, first, avoid sanctionable conduct (via the cautious adverbial hedges); and second, to ensure the unsophisticated reader remembers the shocking anchor ("98% constituted votes for [President] Biden"). Not the sole objective datum, small sample size, or all other concealed qualifications behind the shocking claim.
 
