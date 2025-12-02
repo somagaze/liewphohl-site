@@ -11,7 +11,7 @@ math: true
 ***
 
 >*“Don’t worry about the election. Trump is not going to win. I made fucking sure of that . . . hahaha.”*  
->\- **Dr. Eric Coomer**, *King v. Whitmer*, First Amended Complaint, Case No. 20-CV-13134 (2020)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- **Dr. Eric Coomer**, *King v. Whitmer*, First Amended Complaint, Case No. 20-CV-13134 (2020)
 
 ***
 
@@ -37,7 +37,7 @@ Hence, the proliferation of adverbs with flawed content fill the remaining two q
 ***
 
 >*"I must apologize for Wimp Lo. He is an idiot. We have purposely trained him wrong, as a joke."*  
->\- Master Tang, Kung Pow: Enter the Fist (2002)
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Master Tang, Kung Pow: Enter the Fist (2002)
 
 ***
 

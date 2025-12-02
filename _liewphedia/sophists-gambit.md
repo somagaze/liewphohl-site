@@ -4,6 +4,12 @@ title: Sophist's Gambit
 description: A rhetorical trap engineered for a controlled collapse
 ---
 
+>   TL;DR: *"I knew you knew I knew, all along, all along, all along."*
+>   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Freddie Wong as "Asian," <a href="https://www.youtube.com/watch?v=IHQr0HCIN2w" target="_blank" rel="noopener noreferrer">Mexican Standoff, feat. Key & Peele (RocketJump)</a>
+{: .prompt-tip }
+
+***
+
 ***HeadOn! Apply directly to the forehead! HeadOn! Apply directly to the forehead!***
 
 >"I... HATE this commercial."  
@@ -22,7 +28,7 @@ description: A rhetorical trap engineered for a controlled collapse
 
 >   ***narrator from the sky into their subconscious***
 >   <br>"Aleve."
-{: .prompt-info }
+{: .prompt-danger }
 
 >"Oh, I remember that one. I can't believe companies pay random celebrities to push a product that has nothing to do with the celebrity."  
 ><br>"Diddy and Diet Pepsi."  
@@ -33,9 +39,9 @@ description: A rhetorical trap engineered for a controlled collapse
 ><br>"I only use Aleve, I'll grab some for you."  
 ><br>"Thanks. Maybe I'll start using it at home, too."
 
->   ***narrator from the sky***
->   <br>"Little did they know, big-pharma owns HeadOn and Aleve, and purposely pisses people off using HeadOn to bias them towards Aleve."
-{: .prompt-info }
+>   ***narrator from the sky to reader***
+>   <br>"Little did they know, big-pharma owns both HeadOn and Aleve."
+{: .prompt-danger }
 
 ***
 
@@ -71,6 +77,6 @@ Layer \[X\]:
   - Opponent unknowingly / subconsciously succumbs to the desired outcome
   - Proponent was successful
 
-So long as an opponent does not deconstruct the final layer, layer [X], the gambit was a success. For example, a coordinated group of individuals act in a calculated way that hints at a larger conspiracy. The hinted conspiracy isn't outlandish, nor do the individuals overtly conspire; but it's believable. Critics mock, and the actors continue to perpetuate. Meanwhile, other more-sophisticated critics begin to identify the actors are simply distracting from something else. The trouble is this "something else" is also an orchestrated faux-conspiracy. And on, and on. Success is when the "something else" isn't discovered by way of manipulation, and that non-discovery was the actors' intent.
+So long as an opponent does not deconstruct the final layer, layer [X], the gambit was a success. For example, a coordinated group of individuals act in a calculated way that hints at a larger conspiracy. The hinted conspiracy isn't outlandish, nor do the individuals overtly conspire; but it's believable. Critics mock, and the actors continue to perpetuate. Meanwhile, other more-sophisticated critics begin to identify the actors are simply distracting from something else. The trouble is this "something else" is also an orchestrated faux-conspiracy. And on, and on. Success is when the "something else" isn't discovered because of manipulation by the actors, and that this non-discovery was the actors' original intent. Whether that leads to someone doing something ("I'm gunna buy some Aleve"), do nothing at all ("Meh, there's no political conspiracy to pit people against each other so the global elite can pick my pocket."), or something in between.
 
-Careful though... you may come to believe in Jewish Space Lasers or Lizard People. *Wait, what if that's what **they** want me to believe.* What about Pizza Gate? Was that just a conspiracy theory gone too far driven by projection? *It must be more than John Podesta being Italian.*  What about "Alternative Facts"? Was it more than vain attempt at normalizing doublethink? *I better buy 1984 from Amazon to learn about doublethink. Or is that what Lizard Bezos and Orwell wants...?*
+Careful though... you may come to believe in Jewish Space Lasers or Lizard People. *Wait, what if that's what they want me to believe!* What about Pizza Gate? Was that just a conspiracy theory gone too far driven by projection? *It must be more than John Podesta being Italian!*  What about "Alternative Facts"? Was it more than vain attempt at normalizing doublethink? *I better buy 1984 from Amazon to learn about doublethink. Or is that what Lizard Bezos and Orwell wants...?*
