@@ -1,11 +1,13 @@
 ---
 title: Reactance
 description: A short, allusive, paronomastic, acrostical, and metatextual adventure.
-date: 2025-11-30 12:45
+date: 2025-11-30
 permalink: /2
 categories: [short story, anecdote]
 tags: [acrostic, allusion, humor, metatextuality, paronomasia]
 ---
+
+## ZT 47857
 
 Once, not so long ago... in a mysterious government agency, which is not located in London, Canada…
 
@@ -28,6 +30,8 @@ Porch-under-foot in the community saving spatulas to a desk job pushing digital 
 Deep thought refocused, away from beer to signature blocks, and something was off. The instructions read that the supervisor approved or denied the request; however, only when denied would it go to Flo. She would be the deciding factor when a supervisor said 'no' to their staff. And then? Evil Flo, the out-of-touch executive who just wants people in the office; or Heavy Flo, the Chief who periodically throws her weight around, looking for blood, undermining supervisors and reversing their decisions.
 
 Release did not come that day. It arrived several orbital periods of the Moon around the Earth later. For the time being, I voiced my concerns. Three times. The access notice submission approval form procedure was imbalanced, and lacked a second level of accountability. I'm stubborn. Not proud of that, so I never did Make A Mount In my office to display the trophy Over A Mole recipe that won me the blue ribbon at the Hill fest (all I did was use shallots instead of white onions and expensive chocolate). However, I always made big deals out of small things that could become problematic in the future.
+
+## M.C. Mali Compli
 
 With the record wrapped, dear reader, you know how we got here. Policy had been published, Pearl helped me get it out to my team and register their equipment, and I approved everyone to continue their Jam at home—all Ten of my folks. I needed to get it done pretty quick, as I had substantial medical and convalescent leave coming up.
 
@@ -58,6 +62,8 @@ And after a length of silence, long enough to tell a story like this.
 >"I have to go to another meeting, this isn't over."
 
 I held onto that job in much the say way that JohnMclane, played by Bruce Willis, didn't Hans Gruber, played by Alan Rickman, in the scene beginning around the two-hour mark, culminating at about 2:02:38, in the 1988 movie "Die Hard."
+
+## Comfortably Numb
 
 Back from leave and under a mountain of unread email, I took another job in HIT, but the same parent administration. As part of on-boarding, I needed to get my new boss' approval to work from home. So, I grabbed that damn form and acknowledged I wouldn't go to the… saloon when working. The form was revised. Two things, 1) they changed beer garden to saloon; 2) that means somebody went back to my warnings and made my recommended changes; and 1) saloon.
 

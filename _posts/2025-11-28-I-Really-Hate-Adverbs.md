@@ -1,7 +1,7 @@
 ---
 title: I Really Hate Adverbs
 description: But I like irony.
-date: 2025-11-28 20:55
+date: 2025-11-28
 permalink: /1
 categories: [essay, writing, legal]
 tags: [adverb, election, grammar, johari, kraken, lawsuit, rhetoric]
@@ -14,6 +14,8 @@ math: true
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- **Dr. Eric Coomer**, *King v. Whitmer*, First Amended Complaint, Case No. 20-CV-13134 (2020)
 
 ***
+
+## Background
 
 On November 3, 2020, State Farm Arena in Atlanta experienced a localized plumbing issue (a toilet overflow), which prompted election officials to halt ballot counting around 10:00 pm, and request the departure of poll watchers and media. Officials stated counting would resume the following morning.
 
