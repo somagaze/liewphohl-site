@@ -9,7 +9,7 @@ order: 3
 
 ## A Conceptual Repository of Absolutely Nothing Crucial.
 
-The product of an over-caffeinated brain and its lifelong commitment to conceptual amalgamation—the process of squishing two things together until one of them almost makes sense. This collection of fragments is a glimpse inside, where every idea is lovingly tested, refined, and violently rejected. As Dr. Rumack famously said, "Alright. Give me Hamm on five, hold the Mayo."
+The product of an over-caffeinated brain and its lifelong commitment to conceptual amalgamation—the process of squishing two things together until one of them almost makes sense. This collection of fragments is a glimpse inside, where every idea is lovingly tested, refined, and violently rejected. As Captain Oveur famously said, "Alright. Give me Hamm on five, hold the Mayo."
 
 ### What You Will Gain.
 
@@ -17,7 +17,7 @@ You'll learn several very specific, highly unqualified assertions, much in the s
 
 ### What You Will Lose.
 
-Precious, verifiable claims about the real world, the ability to spell neccissary on the first try, where your keys are, possibly an hour of sleep. Thought if you feel your eyes closing, please do not use Liewphedia as a pillow; it may contain sharp metaphors. In closing, what do you do with an elephant with three balls? Walk him, and pitch to the rhino.
+Precious, verifiable claims about the real world, the ability to spell neccissary on the first try, where your keys are, possibly an hour of sleep. Though if you feel your eyes closing, please do not use Liewphedia as a pillow; it may contain sharp metaphors. In closing, what do you do with an elephant with three balls? Walk him, and pitch to the rhino.
 
 ***
 
