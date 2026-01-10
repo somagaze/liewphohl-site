@@ -2,7 +2,7 @@
 title: Stewie's Law
 description: Irregardless, all of the sudden a whole 'nother.
 date: 2025-12-25
-last_modified_at: 2025-12-30  
+last_modified_at: 2026-01-10  
 toc: true
 ---
 
@@ -15,12 +15,12 @@ toc: true
 
 #### 1. includes / including / etc.
 
-> If you are using this word to identify a subset of something, you need to understand its function is to provide a non-exhaustive list of examples. The word implies there are other items in the set. Also, adding *"but not limited to*" is redundant. If you ever find yourself wanting to provide an exhaustive list of items in a set, just use *"are."*
+> This word to identifies a subset of something; however its function is to provide a non-exhaustive list of examples. It implies there are other items in the set. Also, adding *"but not limited to*" is redundant. If you ever find yourself wanting to provide an exhaustive list of items in a set, just use *"are."*
 >
->  - Days of the week include Mon, Thu, and Sat.
->  - Days of the week are Mon, Tue, Wed, Thu, Fri, Sat, and Sun.
+>  - Days of the week ***include*** Mon, Thu, and Sat.
+>  - Days of the week ***are*** Mon, Tue, Wed, Thu, Fri, Sat, and Sun.
 >
-> Generally, the best use of *includes* is to provide better detail of what is in the set, and exclude items that are not similar to what the set *includes.* In the legal context, this canon is called *ejusdem generis.*
+> Generally, the best use of *includes* is to provide better detail of what is in the set, which provides a standard to determine what items are not in the set. In the legal context, this canon is called *ejusdem generis.*
 >
 > - Use of the road is limited to vehicles, which includes automobiles, motorcycles, and commercial motor vehicles.
 > 
@@ -72,7 +72,7 @@ toc: true
 
 #### 1. Offline
 
-> Due to a non-linear prioritization of competing work-streams, the preliminary synthesis for this engagement was not finalized; I will initiate a post-session reconciliation for subsequent outreach.
+> Due to a non-linear prioritization of competing work-streams, the preliminary synthesis for this engagement was not finalized; I will initiate a post-session reconciliation for subsequent outreach as to not unnecessarily increase labor costs by including this engagement's attendees unrelated to such reconciliation.
 
 ***
 
@@ -81,7 +81,7 @@ toc: true
 *Colloquialism, Cliches, and Idiomatic Deviations - The Slippery Slope.*
 </div>
 
-#### 1. Personally, [first-person pronoun]
+#### 1. Personally, [redundant first-person pronoun]
 
 > Personally, for me, I’ve found that the future is just the past but happening later, which is why, from my perspective, the only way to get to tomorrow is to wait for today to stop being the present.
 
