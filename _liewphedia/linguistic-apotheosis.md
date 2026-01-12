@@ -2,7 +2,6 @@
 title: Linguistic Apotheosis
 description: Neat words and stuff that are cool.
 date: 2026-01-10
-<!-- last_modified_at: 2026-01-10 -->
 toc: true
 ---
 
