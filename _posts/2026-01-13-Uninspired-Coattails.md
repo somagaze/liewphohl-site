@@ -1,10 +1,10 @@
 ---
 title: Uninspired Coattails
-description: Build. Fly. Dream.
+description: Thoughts on art, novelty, and iteration.
 date: 2026-01-13
-permalink: /6
-categories: [essay]
-tags: [music,video-games,art]
+permalink: /4
+categories: [essay,art,music,video-games]
+tags: [trickster,vemödalen,smashing-pumpkins,missing-persons,m83,kerbal-space-program,lcd-soundsystem,allegory,imagimotion,build-fly-dream,kraken,mono-no-aware]
 ---
 
 ## I Guess It Doesn't Matter Any way
