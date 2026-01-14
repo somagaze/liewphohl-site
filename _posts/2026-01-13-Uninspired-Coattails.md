@@ -120,7 +120,7 @@ Of course, interpretation of art is completely subjective. Absent a creator's ex
 
 ***
 
-It is fair to disagree with others, understanding that subjective interpretation in this context can never be wrong. However, Reasoning is an underappreciated art. So, what is Outro about? To me? Imagimotion.
+It is fair to disagree with others, understanding that subjective interpretation in this context can never be wrong. However, reasoning is an underappreciated art. So, what is Outro about? To me? Imagimotion.
 
 Why?
 
@@ -295,7 +295,7 @@ Gamescom (a gaming festival in Germany) provided the platform for the sequel's a
 
 During the sequel's development, Take Two attempted to purchase Star Theory to replace the contractual relationship. When that failed, the contract was cancelled and development was handed over to a newly-created internal studio (Intercept Games). One third of Star Theory employees were poached. Capitalism continued as art's catalyst.
 
-After years of delays, in 2023, the sequel launched on a gaming platform known for its "early access" model, a way for developers to launch unfinished games. Thought in this model, "unfinished" is the benefit. Generally, it provided financial stability for developers, welcomed interaction with the community, and fostered a common goal: a 1.0 release of the best game possible.
+After years of delays, in 2023, the sequel launched on a gaming platform known for its "early access" model, a way for developers to launch unfinished games. Though in this model, "unfinished" is the benefit. Generally, it provided financial stability for developers, welcomed interaction with the community, and fostered a common goal: a 1.0 release of the best game possible.
 
 Ironically, the original Kerbal Space Program was one of the first 12 titles of the early access model's launch in 2013. The game became a beacon of success later games strove to emulate under the model. However, the sequel's launch was a disaster. First, with the backing of the billions-of-dollars-giant Take Two, Intercept Games didn't need consumer-provided financial stability. Further, its price point of $50 realized the community's fear of aggressive monetization. Finally, its state of development at release insulted spirit of early access's "unfinished" concept: the game wasn't even moderately playable, it was un-unfinished.
 
