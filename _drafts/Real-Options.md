@@ -1,14 +1,19 @@
 ---
 title: Real Options
-description: Valuing choices in everyday life.
-date: 2025-12-06
-permalink: /5
+description: Deriving Value from the Underlying Asset of Life.
+# date: 2026-00-00
+# permalink:
 categories: [essay, math]
 tags: [economics, options]
 math: true
 mermaid: true
 ---
 
+***
+
+# DRAFT DRAFT DRAFT DRAFT
+
+***
 
 ## Headnote
 
