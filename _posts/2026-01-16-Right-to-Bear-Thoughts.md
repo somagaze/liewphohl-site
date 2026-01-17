@@ -1,10 +1,10 @@
 ---
-title: Right to Bear Thoughts
+title: Right to Bear Thoughts, No. 000
 description: Counsel Robbin Cheetum's Scooby-Doo Ending.
-# date: 2026-00-00
-# permalink: /000
+date: 2026-01-16
+permalink: /000
 categories: [right to bear thoughts, meta]
-tags: [humor, interpretation, rights]
+tags: [humor, interpretation, constitution, rights]
 ---
 
 ## **Court: today = date.today()**
@@ -13,7 +13,7 @@ tags: [humor, interpretation, rights]
 
 "Counsel Cheetum, naked women seems... a little unreasonable. Quite offensive I might say, too."
 
-"Madam Chief Comissioner, I said *bear thoughts*, not *bare thots*. They're meanings are not the same. Their best understood given context."
+"Madam Chief Commissioner, I said *bear thoughts*, not *bare thots*. They're meanings are not the same. Their best understood given context."
 
 "I think you mean *their*&nbsp; and *they're*, not *they're*&nbsp; and *their*."
 
@@ -54,7 +54,7 @@ tags: [humor, interpretation, rights]
 
 ---
 
-## **Anomoly Across Ocean**
+## **Anomaly Across Ocean**
 
 ---
 
@@ -100,11 +100,11 @@ Compared to the several years after the beginning of the universe, not much happ
 
 ---
 
-"Oh my, you mean a stink in my inexpressibles?
+"Oh my, you mean a stink in my inexpressibles?"
 
 "No. No shite, Orvilleorjusto."
 
-"You simply cannot—*HKK-PFFFFT!*&nbsp; Oh, you absolute rotter! It’s gone vertical! I am currently marinating my own frontal lobe! Why does hops taste like brimstone when it exits the wrong way? Well, if not 'carrying a load' in my smallclothes, whatever do you posit?
+"You simply cannot—*HKK-PFFFFT!*&nbsp; Oh, you absolute rotter! It’s gone vertical! I am currently marinating my own frontal lobe! Why does hops taste like brimstone when it exits the wrong way? Well, if not 'carrying a load' in my smallclothes, whatever do you posit?"
 
 "Here, have another. We shall transition to mead—*HIC*. The context is carrying a burden, or providing structural support."
 
@@ -114,7 +114,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "Yet."
 
-"What of bearskin jobbers? Would bear arms sell themselves short in a market downturn?
+"What of bearskin jobbers? Would bear arms sell themselves short in a market downturn?"
 
 "Bear market, bull market. All financial fraud and blood sports. Liars, cheaters, profiteers. It's all volatility anyway. Those insultuous phrases must be replaced. There needs to be a newer, stronger phrase..."
 
@@ -137,7 +137,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "First, I acquiesce: it is a very forward-thinking interpretation that enshrines the rights of women to have choice over their bodies... but"
 
-"*BURP*"
+"*BURP*&nbsp;"
 
 "It's a belt to the suspenders of autonomy, personal liberty, and inalienable rights. There is no question: no enumerated power in the AAO Charter expresses, or implies, that a person does not have full autonomy over their own bodies."
 
@@ -164,7 +164,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "Oh, my. Let me see that parchment... Orvilleorjusto! Look!"
 
-"*BURP* Hmm?"
+"*BURP*&nbsp; Hmm?"
 
 "You are a genius!"
 
@@ -180,11 +180,11 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "*HIC*&nbsp; You're drooling again."
 
-"I know, this time I am using it to derive the answer to life, the universe, and every *BURP*. Please, continue."
+"I know, this time I am using it to derive the answer to life, the universe, and every—*BURP*. Please, continue."
 
 "The thrust of our amendment is to serve the physical check to tyranny, to complement the legal check: fisticuffs"
 
-"I see. We should add some words to ensure that is clear... security, militia."
+"I see. We should add some words to ensure that is clear... security, militia, verisimilitude."
 
 "Oh, my! Again, genius! A moment to draft."
 
@@ -211,7 +211,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "Hear *HIC*&nbsp; hear!"
 
-*BURP*
+"*BURP*&nbsp;"
 
 ---
 
@@ -219,12 +219,12 @@ Compared to the several years after the beginning of the universe, not much happ
 {: .prompt-tip }
 
 ---
-x $
+
 ## **Court: today = date.today()**
 
 --- 
 
-"That has to be the most ridiculous string of words I have ever heard. Every lawyer in this courtroom is now disbarred for having succumbed to that torture. I cannot comprehend the level of idiocracy that led you to think 'bear arms' has *anything*&nbsp; to do with animals or appendages. What is the point of all this?"
+"That has to be the most ridiculous string of words I have ever heard. Every lawyer in this courtroom is now disbarred for having succumbed to that torture. I cannot comprehend the level of idiocrasy that led you to think 'bear arms' has *anything*&nbsp; to do with animals or appendages. What is the point of all this?"
 
 "Objection, releva..."
 
@@ -234,18 +234,18 @@ x $
 
 "But then, one is faced with a delightful paradox: a phrase so deceptively simple, yet so riddled with meaning. Of course, it means to have guns. But no, no, no! That's not the point. The point is that this *right*&nbsp; of ours to bear arms is not a right in and of itself, but rather a choice we make every day.
 
-"A choice to do what? Well, that's the question isn't it? To arm oneself with courage, or perhaps with an endless supply of silly string or Cheeze-Whiz? Ah, but I digress. The point is that we must have the freedom to choose how we exercise our rights... a reflection of our own ability to think. For if we cannot think for ourselves, how can we possibly wield such mighty weapons such as... well, as guns?
+"A choice to do what? Well, that's the question isn't it? To arm oneself with courage? Or perhaps a very stern glare, dampened trout, or towel? Or with an endless supply of allen wrenches from furniture you bought in the 90s? Ah, but I digress. The point is that we must have the freedom to choose how we exercise our rights... a reflection of our own ability to think. For if we cannot think for ourselves, how can we possibly wield such mighty weapons such as... well, as trout. Or guns?
 
 "I suppose that's where the First Amendment comes in. Ah, yes! Abridged speech, press, free assembly, petitioning for redress. And don't even get me started on the Ninth Amendment! An enumerated right does not disparage other rights. Likewise, my dear Tenth Amendment: any powers or restrictions not enumerated in the Constitution are reserved to the States and the people. You see, my friends, this is where things get provocative.
 
 "For it is among these rights we find our beloved Right to Bear Thoughts. Ah, yes! The very thought itself becomes a right. A fundamental right! For can any right be exercised without free will or volition? Nay!
 
-"And so, I ask you: what exactly does it mean to 'bear thoughts'? Does it mean we must think deeply? Or perhaps simply think... well, at all? That's the beauty of it. We have no idea. And that is precisely why this is so important. For in a free state, my friends, we must always be able to bear our thoughts without fear of reprisal. For if we cannot do so, then what's the point of a secure state?"
+"And so, I ask you: what exactly does it mean to 'bear thoughts'? Does it mean we must think deeply? Or perhaps simply think... well, at all? That's the beauty of it. We have no idea. And that is precisely why this is so important. For in a free state, my friends, we must always be able to bear our thoughts without fear of reprisal. For if we cannot do so, then what's the point of a secure state? Thank you."
 
-"Cousel Robbin Cheetum... is all this word-vomit necessary? This is traffic court."
+"Counsel Robbin Cheetum... is all this word-vomit necessary? This is traffic court."
 
-"Madam Chief Comissioner, my client does not *think*&nbsp; she was speeding. Hashtag *THERIGHTTOBEARTHOUGHTS*&nbsp; number 000!"
+"Madam Chief Commissioner, my client does not *think*&nbsp; she was speeding. Hashtag *THERIGHTTOBEARTHOUGHTS*&nbsp; number 000!"
 
 "Number zero?"
 
-"I'll be back, with more thought criminals! In the name of the Cobain, the Vedder, and the Holy Cornell: may your flannel be plaid and your tuning be dropped. The defense rests."
+"I'll be back, with more thought criminals! In the name of the Cobain, the Vedder, and the Holy Cornell: may your flannel be plaid, and your tuning be dropped. The defense rests."
