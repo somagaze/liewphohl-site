@@ -26,6 +26,16 @@ toc: true
 > 
 > With these vehicles examples, it is clear the road is not for planes or boats. Also, it is easily defensible it excludes ground vehicles without wheels, like construction equipment or snowmobiles. 
 
+#### 2. under / overrated
+
+> Useful, but often misused to create strawman arguments before casting subjective opinions into the ocean of general consensus:
+>
+> - He suffered from a chronic case of pre-emptive consensus disorder. A man, physically incapable of disliking a movie until he had received written permission from strangers, announces, "Does anyone else think *The Shawshank Redemption*, *The Godfather*, and all other movies on IMDb's Top Movies of All Time are overrated?" TRANSLATION: I need external validation from others when I disagree with the majority. Therefore, I have to hedge my vulnerability to save my pride (which is based on never have an original thought).
+>
+> Also used in tactical deployments of Cunningham's Law:
+>
+> - She was a semantic saboteur. She planted definitions like demolition charges on the support beams of language and mocked victims. She didn't actually care about taxonomy or definitions. Instead, enjoyment derived from watching categorization systems collapse. She knew exactly where to sever the strut of context so that a simple phrase like "A Pop-Tart is structurally a ravioli" would cause the entire architectural integrity of the culinary arts to pancake into the basement. "It is," she clichés, "And I am tired of pretending it's not."
+
 ***
 
 <div style="text-align: center;" markdown="1">
