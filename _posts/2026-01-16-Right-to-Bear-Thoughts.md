@@ -141,7 +141,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "It's a belt to the suspenders of autonomy, personal liberty, and inalienable rights. There is no question: no enumerated power in the AAO Charter expresses, or implies, that a person does not have full autonomy over their own bodies."
 
-"...I see, said the blind man to his deaf dog while pissing into the wind: it's all coming back to me now. So, if that *was*&nbsp; the interpretation—bear arms as to bear children—that would mean the amendment was necessary, because the AAO Charter did not guarantee the right in the first place?"
+"...I see, said the blind man while pissing into the wind. So, if that *was*&nbsp; the interpretation—bear arms as to bear children—that would mean the amendment was necessary, because the AAO Charter did not guarantee the right in the first place? It's all coming back to me now."
 
 "Precisely. But in a more grotesque critique, why only arms? Why not the entire body?"
 
@@ -234,7 +234,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "But then, one is faced with a delightful paradox: a phrase so deceptively simple, yet so riddled with meaning. Of course, it means to have guns. But no, no, no! That's not the point. The point is that this *right*&nbsp; of ours to bear arms is not a right in and of itself, but rather a choice we make every day.
 
-"A choice to do what? Well, that's the question isn't it? To arm oneself with courage? Or perhaps a very stern glare, dampened trout, or towel? Or with an endless supply of allen wrenches from furniture you bought in the 90s? Ah, but I digress. The point is that we must have the freedom to choose how we exercise our rights... a reflection of our own ability to think. For if we cannot think for ourselves, how can we possibly wield such mighty weapons such as... well, as trout. Or guns?
+"A choice to do what? Well, that's the question isn't it? To arm oneself with courage? Or perhaps a very stern glare, dampened trout, or towel? Or with an endless supply of allen wrenches from furniture you bought in the 90s? Ah, but I digress. The point is that we must have the freedom to choose how we exercise our rights... a reflection of our own ability to think. For if we cannot think for ourselves, how can we possibly wield such mighty weapons such as... well, as trout? Or guns?
 
 "I suppose that's where the First Amendment comes in. Ah, yes! Abridged speech, press, free assembly, petitioning for redress. And don't even get me started on the Ninth Amendment! An enumerated right does not disparage other rights. Likewise, my dear Tenth Amendment: any powers or restrictions not enumerated in the Constitution are reserved to the States and the people. You see, my friends, this is where things get provocative.
 
