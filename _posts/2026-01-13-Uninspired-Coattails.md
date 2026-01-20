@@ -301,7 +301,7 @@ Ironically, the original Kerbal Space Program was one of the first 12 titles of 
 
 Intercept died as many internal studios of corporate giants do: five percent of employees were laid off in April 2024, the last update to the game was that June, and the studio was shut down. As a final "fuck you" to the dream, an insult to supporters, and a trap for suckers, the game [remains available](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/){:target="_blank"} for $50. Still under the early access model. No one is working on it and it will likely never be finished.
 
-What happens when corporatism's poison mixes with its antithesis—art—to create a commercial amalgam? The contrivance that is the sequel's launch trailer. Shaun's fan-made trailer of the original was a culmination of what the game meant to its fans. Take Two and Intercept knew this; and with a nod to Shaun ("thanks to Shaun Esau," hashtag *BUILDFLYDREAM*), the sequel's trailer announced the game using Outro. A foreshadowing of the disaster that was the sequel.
+What happens when corporatism's poison mixes with its antithesis—art—to create a commercial amalgam? The contrivance that is the [sequel's launch trailer](https://www.youtube.com/watch?v=P_nj6wW6Gsc){:target="_blank"}. Shaun's [fan-made trailer](https://www.youtube.com/watch?v=RkDOOsGg-9I){:target="_blank"} of the original was a culmination of what the game meant to its fans. Take Two and Intercept knew this; and with a nod to Shaun ("thanks to Shaun Esau," hashtag *BUILDFLYDREAM*), the sequel's trailer announced the game using Outro. A foreshadowing of the disaster that was the sequel.
 
 Why?
 
