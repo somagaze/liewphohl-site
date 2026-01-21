@@ -7,7 +7,7 @@ order: 5
 > An echo chamber of one. Laws, lyrics, lore, leitmotif, and lother stuff. Dissected with curiosity and reconstructed with disregard for convention. A meticulously chaotic exploration of everything that is nothing in particular. Strategerically awful on purpose, and the best of what's left.
 {: .prompt-info }
 
-### Dear reader, are you there?
+### Dear Reader, Are You There?
 
 I like to write. But my style is not artistically engaging. By profession, it prioritizes clarity of instruction over emotional resonance, and is legally binding. Technical documentation drafted under duress. Laws, regulations, analyses – exhaustive exercises in precision and the avoidance of ambiguity. A life spent chasing fidelity to the letter, debating over the meaning of a sentence's semi-colon, or convincing others "effect" is also a verb. Language to govern every conceivable scenario (and several inconceivable ones). I find the process... satisfying.
 
@@ -28,3 +28,9 @@ Just a person who grew up in Seattle. A 90s xennial introvert smothered under gr
 Small family, music lover (KEXP 90.3 FM!), avid gamer (Monster Hunter, woo! Soulsborne, woo!), reader (more educational than literature), LEGO builder (need more display space), and lifetime baseball player (sadly no longer due to injury). As for other uses of spare time, my brain is a bit divergent. Special interests come and go, hyper-focus makes time fly, I need routine, my senses are extremely sensitive, I need to pay attention to my mood, and I constantly mask in public. Writing helps me be myself, if only to process thoughts and output something real, as opposed to spending all day in my head.
 
 That means this list will continue to grow: learning linux, docker, basic coding; self-hosting services (ad-blocking, media servers, data hoarding); continual collecting of headphones and audio gear; messing with software-defined radio; way too much coffee gear; comparing different strains of recreational marijuana; sitting next to a dust-covered Stratocaster; music production gear sitting in the attic; enjoying my dream car (Subaru STi); watching Lord of the Rings when I decide I need to cry; and other things I can't control learning about.
+
+### Why? Worry.
+
+Does a submarine captain need to worry about the installation of a screen door? Does a skydiver need to worry when he sees his parachute packer reading a book titled *Origami for Beginners*?  Does a man wearing a tuxedo made of raw sirloin need to worry about the approaching pack of wolves? Does a man discussing a crime need to worry about the microphone in his soup, if the waiter promises to only listen for "keywords related to tipping"? Does a teenager need to worry about photocopying her diary and dropping it from a blimp, provided she crossed out her middle name with a very light pencil?" Is Angela Bennet ever going to eat pie again after playing the new hot game "Mozart's Ghost"? Do I own the Gatekeeper security system, and am I gathering data on you?
+
+No.
