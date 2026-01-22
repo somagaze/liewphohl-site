@@ -17,12 +17,12 @@ package-lock.json
 
 # IDE configurations
 .idea
-.vscode/*
+.vscode/
 
 # Misc
 _sass/vendors
 assets/js/dist
 
 # Manual entries
-storage/*
-_drafts/*
+storage/
+_drafts/
