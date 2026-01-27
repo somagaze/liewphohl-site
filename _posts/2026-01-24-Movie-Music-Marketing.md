@@ -4,7 +4,7 @@ description: (MMMBop)
 date: 2026-01-24
 permalink: /5
 categories: [the arts]
-tags: [allegory, capitalism, figurative, movies, music, pixies]
+tags: [allegory, capitalism, figurative, movies, music, opinioskit, pixies]
 ---
 
 Beth Henley's play *Crimes of the Heart*&nbsp; premiered in Louisville in '79 and survived more than 500 performances. Its run ended on Broadway in 1983. The work mutated to a novel, theatrical release, VHS home movie, then to the lyrics of an 1988 song. Praised by critics, the play won a Pulitzer for drama, and the movie a Golden Globe (while also receiving multiple Academy Award nominations).
@@ -166,7 +166,7 @@ I asked Douglas Adams to be our stenographer for this moment. Don't worry, he kn
 
 ---
 
-<video width="100%" controls preload="none" poster="/assets/img/kim_deal_sig.jpg">
+<video width="100%" controls preload="none" poster="/assets/img/pixies.webp">
   <source src="/assets/vid/iphone_ad_720p.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

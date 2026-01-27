@@ -3,8 +3,8 @@ title: I Really Hate Adverbs
 description: But I like irony.
 date: 2025-11-28
 permalink: /1
-categories: [essay, writing, legal]
-tags: [adverb, election, grammar, johari, kraken, lawsuit, rhetoric]
+categories: [the craft]
+tags: [essay, grammar, kraken, legal, rhetoric, style, writing]
 math: true
 ---
 

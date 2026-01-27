@@ -1,10 +1,10 @@
 ---
 title: Reactance
-description: A short, allusive, paronomastic, acrostical, and metatextual adventure.
+description: A short, allusive, paronomastic, acrostical adventure.
 date: 2025-11-30
 permalink: /2
-categories: [short story, anecdote]
-tags: [acrostic, allusion, humor, metatextuality, paronomasia]
+categories: [the system]
+tags: [anecdote, bureaucracy, malicious-compliance, wordplay]
 ---
 
 ## ZT 47857

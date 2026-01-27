@@ -3,8 +3,8 @@ title: Right to Bear Thoughts, No. 000
 description: Counsel Robbin Cheetum's Scooby-Doo Ending.
 date: 2026-01-16
 permalink: /000
-categories: [right to bear thoughts, meta]
-tags: [humor, interpretation, constitution, rights]
+categories: [the right to bear thoughts]
+tags: [constitution, canons-of-construction, opinioskit, rights]
 ---
 
 ## **Court: today = date.today()**

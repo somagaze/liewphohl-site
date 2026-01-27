@@ -3,8 +3,8 @@ title: Uninspired Coattails
 description: Thoughts on art, novelty, and iteration.
 date: 2026-01-13
 permalink: /4
-categories: [essay,art,music,video-games]
-tags: [trickster,vemödalen,smashing-pumpkins,missing-persons,m83,kerbal-space-program,lcd-soundsystem,allegory,imagimotion,build-fly-dream,kraken,mono-no-aware]
+categories: [the arts]
+tags: [allegory, build-fly-dream, essay, gaming, imagimotion, kerbal-space-program, kraken, lcd-soundsystem, m83, missing-persons, mono-no-aware, music, smashing-pumpkins, trickster, vemödalen]
 ---
 
 ## I Guess It Doesn't Matter Any way
