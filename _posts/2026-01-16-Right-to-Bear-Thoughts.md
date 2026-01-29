@@ -68,7 +68,7 @@ Compared to the several years after the beginning of the universe, not much happ
 
 "Welcome, Mr. Buster. Do you go by Phil, or Phillip?"
 
-"Orville. For the record, 'Phil' is my given name, but I prefer my secundonomen, 'Orville,' or just 'O.' And you, sir?"
+"Orville. For the record, 'Phil' is my given name, but I prefer my second praenomen, 'Orville,' or just 'O.' And you, sir?"
 
 "Xavier. Xavier Breadth. Shall we get started Orvilleorjusto?"
 
@@ -220,9 +220,9 @@ Compared to the several years after the beginning of the universe, not much happ
 
 ---
 
-## **Court: today = date.today()**
+## **Court: today = date.later.today()**
 
---- 
+---
 
 "That has to be the most ridiculous string of words I have ever heard. Every lawyer in this courtroom is now disbarred for having succumbed to that torture. I cannot comprehend the level of idiocrasy that led you to think 'bear arms' has *anything*&nbsp; to do with animals or appendages. What is the point of all this?"
 
