@@ -69,10 +69,12 @@ Back from leave and under a mountain of unread email, I took another job in HIT,
 
 I had to see it. Within all the DIPS email tossed my way during leave, I dug and found Flo's announcement of the revision:  
 
+<!-- markdownlint-disable MD034 -->
 >*Please use the attached new version of this form going forward. Without my approval, employees cannot work at home without P.A.N.T.S. Be advised that the implementation of this revised policy constitutes a finalized administrative determination. Subsequent operational vectors, therefore, preclude any and all consideration of alternative recourse or individualized accommodation.  
 ><br>No exceptions.  
 ><br>Thank you,  
 ><br>Flo Y. D.  Pinkerton, Chief, DIPS/HIT  
->0-(112)-358-1321  
+>0-(112)-358-1321
 >pink.flo.yd@hit.gov  
 >(for some reason I have to say this was sent from my iMac, not my iPhone)*
+<!-- markdownlint-enable MD034 -->

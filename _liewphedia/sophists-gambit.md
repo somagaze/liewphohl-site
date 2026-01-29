@@ -5,17 +5,17 @@ date: 2025-11-30
 toc: true
 ---
 
-## TL;DR:
+## TL;DR
 
->   *"I knew you knew I knew, all along, all along, all along."*
->   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Freddie Wong as "Asian," <a href="https://www.youtube.com/watch?v=IHQr0HCIN2w" target="_blank" rel="noopener noreferrer">Mexican Standoff, feat. Key & Peele (RocketJump)</a>
+> *"I knew you knew I knew, all along, all along, all along."*
+> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Freddie Wong as "Asian," <a href="https://www.youtube.com/watch?v=IHQr0HCIN2w" target="_blank" rel="noopener noreferrer">Mexican Standoff, feat. Key & Peele (RocketJump)</a>
 {: .prompt-tip }
 
 ***
 
 ## HeadOn!
 
-***HeadOn! Apply directly to the forehead! HeadOn! Apply directly to the forehead!*** 
+***HeadOn! Apply directly to the forehead! HeadOn! Apply directly to the forehead!***
 
 >"I... HATE this commercial."  
 ><br>"How did we get to 2006?"  
@@ -31,9 +31,13 @@ toc: true
 ><br>"Super Bowl commercials are always good. Remember that Bud Light one with the bear?"  
 ><br>"I liked the one with Leonard Nimoy... what was that one for again? Eh, oh well."
 
->   ***narrator from the sky into their subconscious***
->   <br>"Aleve."
+***
+
+> ***narrator from the sky into their subconscious***
+> <br>"Aleve."
 {: .prompt-danger }
+
+***
 
 >"Oh, I remember that one. I can't believe companies pay random celebrities to push a product that has nothing to do with the celebrity."  
 ><br>"Diddy and Diet Pepsi."  
@@ -44,8 +48,10 @@ toc: true
 ><br>"I only use Aleve, I'll grab some for you."  
 ><br>"Thanks. Maybe I'll start using it at home, too."
 
->   ***narrator from the sky to reader***
->   <br>"Little did they know, big-pharma owns both HeadOn and Aleve."
+***
+
+> ***narrator from the sky to reader***
+> <br>"Little did they know, big-pharma owns both HeadOn and Aleve."
 {: .prompt-danger }
 
 ***
@@ -62,27 +68,27 @@ The HeadOn / Aleve relationship of course isn't true, and my example is a bit to
 
 Layer One:
 
-  - Proponent has a desired outcome
-  - Proponent engineers a sophistic claim
-  - Opponent rejects the claim on its face
+- Proponent has a desired outcome
+- Proponent engineers a sophistic claim
+- Opponent rejects the claim on its face
 
 Layer Two:
 
-  - Opponent identifies fallacies, manipulation of cognitive biases, or both
-  - Opponent finds they rejected the claim... a bit too easily
-  - Opponent recognizes the claim's rejection was the proponent's desire
-  - Opponent is aware any further discussion continues to give the claim "air time"
+- Opponent identifies fallacies, manipulation of cognitive biases, or both
+- Opponent finds they rejected the claim... a bit too easily
+- Opponent recognizes the claim's rejection was the proponent's desire
+- Opponent is aware any further discussion continues to give the claim "air time"
 
 Layer \[X\]:
 
->   The opponent may recognize the sophistry in this layer, too. *"Big-pharma wants me to think that's what big-pharma wants me to think."*&nbsp; If so, it is a repeat of Layer Two. Otherwise, continue...
+> The opponent may recognize the sophistry in this layer, too. *"Big-pharma wants me to think that's what big-pharma wants me to think."*&nbsp; If so, it is a repeat of Layer Two. Otherwise, continue...
 {: .prompt-info }
 
-  - Opponent is satisfied they didn't succumb to the claim, nor the manipulation
-  - Opponent thinks that recognizing and countering the manipulation was the end
-  - Opponent is oblivious to anything further
-  - Opponent unknowingly / subconsciously succumbs to the desired outcome
-  - Proponent was successful
+- Opponent is satisfied they didn't succumb to the claim, nor the manipulation
+- Opponent thinks that recognizing and countering the manipulation was the end
+- Opponent is oblivious to anything further
+- Opponent unknowingly / subconsciously succumbs to the desired outcome
+- Proponent was successful
 
 So long as an opponent does not deconstruct the final layer, layer [X], the gambit was a success. For example, a coordinated group of individuals act in a calculated way that hints at a conspiracy. The hinted conspiracy isn't outlandish, nor do the individuals overtly conspire; but it's believable. Critics mock, and the actors continue to perpetuate. Meanwhile, other more-sophisticated critics begin to identify the actors are simply distracting from something else. The trouble is this "something else" is also an orchestrated faux-conspiracy... and on, and on. Success is when this "something else" isn't discovered because of manipulation by the actors, and that this non-discovery was the actors' original intent. Whether that leads to manipulating someone into doing something ("I'm gunna buy some Aleve!"), doing nothing at all ("Meh, there's no political conspiracy to pit people against each other so the global elite can pick my pocket."), or something in between.
 

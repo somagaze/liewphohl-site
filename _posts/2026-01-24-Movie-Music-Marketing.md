@@ -7,6 +7,8 @@ categories: [the arts]
 tags: [allegory, capitalism, figurative, movies, music, opinioskit, pixies]
 ---
 
+## Epicenter of Casein-Based Logical Paradoxes
+
 Beth Henley's play *Crimes of the Heart*&nbsp; premiered in Louisville in '79 and survived more than 500 performances. Its run ended on Broadway in 1983. The work mutated to a novel, theatrical release, VHS home movie, then to the lyrics of an 1988 song. Praised by critics, the play won a Pulitzer for drama, and the movie a Golden Globe (while also receiving multiple Academy Award nominations).
 
 "Excuse me, sir, this is a cheese emporium. What does my *Doolittle*&nbsp; t-shirt have to do with this?"
@@ -128,7 +130,7 @@ The word "gas" is intriguing. Internal combustion vagina? No. I argue Kim is sne
 
 ...
 
-And if you continue the personification, we have a vagina that too often says "let's have a ball, Paul." What a gas this analysis is! Now for the remainder of Kim's prose: any strange woman lying in a pond distributing swords can figure the rest out. But let's thrust some previous lines in here for our happy ending:
+And if you continue the personification, we have a vagina that too often says "let's have a ball, Paul." What a gas this analysis is! Now for the remainder of Kim's prose: patently obvious, even to the most intellectually myopic saboteurs of linguistic fortification. Let's thrust some previous lines in here for our happy ending:
 
 > Gigantic, gigantic, gigantic<br>
 > A big, big love<br>
@@ -221,7 +223,7 @@ Just some thoughts. Many years ago my mentor, Dr. Professor von Overthink, said 
 
 Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONEY*&nbsp; anyway. Like I was saying...
 
-"RICHARD PETER SMOKESTOOMUCH! Are you still in the shower? What are you doing in there?"
+"RICHARD PETER JOHNSON SMOKESTOOMUCH! Are you still in the shower? What are you doing in there?"
 
 "Yes, mum. Just thinking about stuff."
 
@@ -233,7 +235,7 @@ Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONE
 
 ---
 
-Notefoots
+## Mittepistles
 
 [^1]: Sounds Magazine, May 1988 (unable to find this primary source)
 [^2]: [Kim Deal VPRO Interview 1988](https://www.youtube.com/results?search_query=1988+pixies+interview+vpro){:target="_blank"}

@@ -115,6 +115,7 @@ Of course, interpretation of art is completely subjective. Absent a creator's ex
 ***
 
 > "*I just think it’s unnecessary because it’s personal. Songs are songs and to reduce them is to waste them. If I wanted to make something about something I would write an essay."*
+>
 > - James Murphy[^10]
 {: .prompt-info }
 

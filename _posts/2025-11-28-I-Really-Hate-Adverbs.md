@@ -25,7 +25,8 @@ The discrepancy between the official statement and continued operations raised q
 
 This hints at a basic quandary: when claims are based on subjective interpretation overloaded with qualifiers, can they hold up to scrutiny if presented as absolute truth? A sample of these legal proceedings offer a compelling illustration. To understand how this works—and how it fails—we need a framework.
 
-##  Datum to Conceptualization to Encoding to Written Word
+## Datum to Conceptualization to Encoding to Written Word
+
 Overreliance on adverbs is vagueness masquerading as specificity and erodes meaning. There is no escaping style. Word choice is foundational for conveying meaning in asynchronous communication. Authors lock their translation of, or encoding of, abstract thought into text. A reader's accurate comprehension of this encoding, and in turn understanding the source abstract thought, turns on the writing's fidelity, precision, and rhetorical quality.
 
 However, overreliance implies a lack of skill or craft on the part of the author, a sort of unconscious incompetence that leads to incomplete, mistaken, or weak encoding. But what of the consciously competent author? From a rhetorical perspective, the strategic use of adverbs is a necessary tool of language, one of the uncountable devices to encode abstract thought.
@@ -48,6 +49,7 @@ The United States Districct Court, Northern Distrcoit of Georgia, received a com
 For a moment, concede all lawyers are consciously competent authors. Counsel Sidney Powell (cough) succame to conspiracy theories and was among many lawyers who together filed the these and additional complaints alleging "massive election fraud." She became the face of the "kraken suits," the name given by observers, when she announced the suits "release the kraken" against the fraudsters that would conspire to put President Biden in the Oval Office over Trump. But, did Powell successfully unleash her claims upon the intended targets, or did the mythical beast recoil and consume its summoner in a wave of professional censure? Adverb usage provides insight.
 
 ## Intensifiers Weaken Claims: Louder Truthiness
+
 One "fundamentally troubling, insidious, and egregious" use of adverbs is appealing to emotion in place of providing facts. "Especially egregious" is the use of modifiers as cloaked causation for a claim. The kraken lawsuits alleged defendants' "old-fashioned ballot-stuffing" flipped the outcome of the 2020 presidential election.
 
 The intended audience of a legitimate lawsuit—judge, opposing counsel, others in the legal field—relies on analytical skill and self-awareness to parse and contemplate the veracity of a complaint. Facts support allegations, intensity does not. A plaintiff does not "establish[] a violation. . ." clearly. The adverb adds nothing material. In fact, it detracts by begging the question, which is a telltale sign of a flawed argument; and attempts to shock the reader into belief.
@@ -62,7 +64,8 @@ However, intensifiers are necessary in writing. Precision in manner or degree, t
 
 Therefore, it is absolutely, undeniably crucial—indeed, fundamentally essential—to resist the temptation of overly dramatic emphasis. At best, purposely and callously attacking readers with wholly overwhelming intensity helps an author meet a college thesis word count requirement; at worst, it trivially and impeccably makes a judge's job at imposing sanctions effortlessly, instinctively, and laughably easier.
 
-## Redundancy and Contradiction: The Illusion of Thoroughness.
+## Redundancy and Contradiction: The Illusion of Thoroughness
+
 Ultimately, redundancy and outright contradictory writing persistently restates a point differently; and sometimes asserts conflicting ideas; or even awkwardly says the same thing and negates a previous claim, which may seemingly be harmless filler that may not be detrimentally crucial to an argument; but also could strongly imply a weakly developed argument or a diffidently hesitant author. In this context, adverbs, particularly to a higher degree than other modifiers, are a blatantly insidious problem sometimes frequently found in poorly written prose.
 
 Legal writing—arguably all writing—aims for unambiguous precision. Statutes, contracts, and court filings must convey specific intent without leaving room for misinterpretation. Redundancy does not add to that precision; it dilutes it. Each repetition introduces a potential point of interpretive divergence; a space where a clever opponent can sow doubt, or an impartial reviewer can get lost in flawed logic.
@@ -85,7 +88,8 @@ With this example, given the source of the claim is an affidavit, it is likely t
 
 So, as every legal scholar knows, 99% of all allegations in a complaint are hedged when the scholar sets aside all unqualified assertions, and that makes for a poor lawsuit.
 
-## Other Unqualified Assertions of Pure, Trivial Illogic.
+## Other Unqualified Assertions of Pure, Trivial Illogic
+
 The problems with adverbial excess extend beyond simply weakening claims through over-intensification or creating internal contradictions. They manifest in more subtle, yet equally damaging, ways that undermine the integrity of legal argument, and reveal a troubling rhetorical strategy.
 
 One common tactic is leveraging temporal proximity to manufacture causation where none exists. Events unfold in sequence; that is inherent to time’s passage. However, simply stating that one event "immediately" followed or "shortly thereafter" occurred does not establish a causal link—a *but-for* or *if-then* relationship where one event necessitates the other. To imply a coordinated scheme based solely on timing is fallacious; contrary to the aphorism correlation does not equal causation. The world rarely operates on such precise triggers; attributing conspiratorial intent based on natural timing is often an unwarranted leap in logic. A legitimate claim requires demonstrating how and why one event led to another—not merely that they happened close together.
@@ -97,16 +101,19 @@ This effect is amplified by the unfortunate tendency toward mixed registers: ble
 Finally, the inescapable escalation trap. If everything is deemed “egregious,” “systematic,” or “blatant,” those terms become meaningless. The rhetorical force dissipates as it is spread too thinly across every assertion. Butter scraped over too much bread, as Bilbo says. An author trapped in this cycle loses the ability to highlight genuinely concerning facts because they have already exhausted their descriptive power on every minor detail. The result is not emphasis; it is apathy – and ultimately, dismissal by any reader accustomed to logical discourse.
 
 ## When Is It Written Badly Well?
+
 Having duly considered matters pertaining to adverbial construction—and having engaged in exhaustive contemplation regarding their deleterious effects upon rhetorical precision—we shall now proceed to examine badly written writing and badly well-written writing.
 
 Weak rhetoric, particularly the overreliance on adverbs, is not always a purposeful act. It stems from fundamentally different places within an author—a crucial distinction for understanding the intent and potential harm of the writing.
 
-### The Unconsciously Incompetent Author.
+### The Unconsciously Incompetent Author
+
 This writer genuinely believes in the power of their rhetoric, unaware of its flaws. They operate from a place of conviction, mistaking passion for persuasion. Their writing is characterized by escalating intensity: a belief that louder simply equals truer. They lack a theory of the reader, assuming their arguments will be accepted on face value rather than critically examined. Redundancy arises from a need to constantly reinforce their own conviction, while contradictions are simply overlooked.
 
 This author is not actively trying to deceive; they have convinced themselves of their own narrative and are genuinely baffled when others cannot see it as clearly. Their mistake is not malice, but a fundamental misunderstanding of how communication works, and a failure to recognize the importance of factual grounding alongside emotional appeal. Without a foundation of evidence, their claim collapses under its own weight. A sincere but ultimately self-defeating cascade of hyperbolic claims.
 
-### The Consciously Incompetent Author.
+### The Consciously Incompetent Author
+
 This writer weaponizes rhetoric at the expense of truth. They know their arguments are weak, but leverage that weakness strategically. This is the skilled deceiver, wielding a surgical scalpel as a weapon rather than a tool for precision and clarity. They deliberately walk the line between plausibility and absurdity, crafting language designed to resonate with specific audiences while providing deniability against scrutiny.
 
 They understand cognitive biases and exploit them, employing vague qualifiers and mixed registers to simultaneously appeal to emotion and obscure fact. Unlike their unconscious counterpart, they are not trapped by escalating intensity; they carefully calibrate their language to maintain plausible deniability while still stirring desired reactions in targeted groups. This author is not seeking truth; they are seeking influence. They are perfectly willing to sacrifice integrity to achieve it.
@@ -118,17 +125,16 @@ The consciously incompetent author operates according to an implicit equation—
 
 This is not about creating balanced argumentation; it is about manipulating perception through calculated imbalance. The goal is to create a complaint that feels convincing on the surface, even if it crumbles under examination. Breaking down how this equation is exploited:
 
-
 - ***Maximize the Numerator: Pump up three key components***
-    - **Intensifying Adverbs:** “Clearly,” “obviously,” “massively” create an illusion of certainty where none exists—injecting emotional force into flimsy claims.
-    - **False Expertise:** Citing unqualified experts or selectively quoting reputable sources lends an air of authority without genuine backing.
-    - **Fake Precision:** Employing specific numbers coupled with vague qualifiers provides the illusion of rigorous analysis without actual data supporting it.
+  - **Intensifying Adverbs:** “Clearly,” “obviously,” “massively” create an illusion of certainty where none exists—injecting emotional force into flimsy claims.
+  - **False Expertise:** Citing unqualified experts or selectively quoting reputable sources lends an air of authority without genuine backing.
+  - **Fake Precision:** Employing specific numbers coupled with vague qualifiers provides the illusion of rigorous analysis without actual data supporting it.
 
 - ***Minimize the Denominator: Undermines the foundation of sound reasoning***
-    - **Vagueness:** Ambiguous phrasing allows for multiple interpretations and shields against direct refutation.
-    - **Hedge Words:** “May,” “could,” “potentially” provide plausible deniability when claims inevitably fall apart under scrutiny—allowing retreat without admitting outright falsehoods.
-    - **Contradictory Claims:** Internal inconsistencies are either ignored or subtly masked, relying on readers not noticing (or not caring) about logical contradictions within the text itself.
-    - **Causation:** Masking of the *but-for* and *if-then* relationships, dragging a reader through the causal chain rather than describing its path.
+  - **Vagueness:** Ambiguous phrasing allows for multiple interpretations and shields against direct refutation.
+  - **Hedge Words:** “May,” “could,” “potentially” provide plausible deniability when claims inevitably fall apart under scrutiny—allowing retreat without admitting outright falsehoods.
+  - **Contradictory Claims:** Internal inconsistencies are either ignored or subtly masked, relying on readers not noticing (or not caring) about logical contradictions within the text itself.
+  - **Causation:** Masking of the *but-for* and *if-then* relationships, dragging a reader through the causal chain rather than describing its path.
 
 The end result? A document engineered not for truth-seeking but for manipulation via truthiness. One that relies on exploiting vulnerabilities in how people process information rather than presenting a compelling case based on facts and logic. It prioritizes seeming legitimate over being legitimate. The consciously incompetent author's prayer:
 
