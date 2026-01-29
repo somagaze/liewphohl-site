@@ -17,7 +17,9 @@ Cheesy comestibles can wait a tick, young woman.
 
 "Man."
 
-Man, sorry. My brain's already on the cheese board of racing thoughts. That shirt of yours jogged a memory of mine... *Crimes of the Heart*&nbsp; tells the story of three sisters, Meg (played by Jessica Lange in the movie), Lenny (Diane Keaton), and Babe (Sissy Spacek), who reunite in their hometown of Hazelhurst, Mississippi. The central plot revolves around Babe, who shot her husband Zackery while he assaulted the 15-year-old boy Willie Jay (wink wink, nudge nudge: Babe was having an affair with Willie Jay, know what I mean?). Babe and Zackery are both white, and Willie Jay was a bla...
+Man, sorry.
+
+My brain's already on the cheese board of racing thoughts. That shirt of yours jogged a memory of mine... *Crimes of the Heart*&nbsp; tells the story of three sisters, Meg (played by Jessica Lange in the movie), Lenny (Diane Keaton), and Babe (Sissy Spacek), who reunite in their hometown of Hazelhurst, Mississippi. The central plot revolves around Babe, who shot her husband Zackery while he assaulted the 15-year-old boy Willie Jay (wink wink, nudge nudge: Babe was having an affair with Willie Jay, know what I mean?). Babe and Zackery are both white, and Willie Jay was a bla...
 
 "Can I instead interest you in some samples? Today, we have Crottin de Chavignol from France's Loire Valley; a traditional Norwegian Gjetost; and a fine Spanish Zamorano. I recommend..."
 
@@ -25,7 +27,7 @@ No, no, no, a moment please... well, on second thought. I will try the Zamorano,
 
 "Oooohhh, no... the parrot's gotten it. Again."
 
-Has it, now? Never-you-mind then. Zamorano can wait for my thoughts on Zackery: a wealthy and influential politician who feared public exposure of the crime more than bleeding out on the floor. The work's theme focuses on power dynamics in the 70s deep south: institutional racism, economic disparity, and ingrained moral hypocrisy. Henley's plot leveraged the extramarital and interracial affair—an explosive social transgression of that era. The stench of the commodification of justice she portrayed rivaled Cabrales.
+Has it, now? Never-you-mind then. Zamorano can wait for my thoughts on Zackery: a wealthy and influential politician who feared public exposure of the incident and affair more than bleeding out on the floor. The work's theme focuses on power dynamics in the 70s deep south: institutional racism, economic disparity, and ingrained moral hypocrisy. Henley's plot leveraged the extramarital and interracial affair—an explosive social transgression of that era. The stench of the commodification of justice she portrayed rivaled Cabrales.
 
 "I believe we do have some sealed away if you li..."
 
@@ -55,7 +57,7 @@ Ah, yes: one year before 1989's *Doolittle*&nbsp; was *Surfer Rosa*&nbsp;, and a
 
 ...
 
-Why, that's Kim Deal of course! She penned the lyrics to the song Gigantic. Some say it was based on the relationship in *Crimes of the Heart*&nbsp; (I say that, too). But, you may ask, 'Mr. Smokestoomuch, how do you know Gigantic was inspired by the movie?'
+Why, that's Kim Deal of course! She penned the lyrics to the song Gigantic. Some say it was based on the relationship in *Crimes of the Heart*&nbsp; (I say that, too). But, you may ask, 'Mr. Strokestoomuch, how do you know Gigantic was inspired by the movie?'
 
 "I didn't ask that. And you'd better cut down a little then."
 
@@ -69,17 +71,19 @@ Therefore, we must—with phallic fortitude and penile persistence—penetrate K
 
 Yes.
 
-Set aside the satirical irony of her "Mrs. John Murphy" pseudonym, its spot-on observations of "respectable" marriage standards in the 80s, and catch up to Kim's cerebral cacophony of noise nirvana. Of the indie intransigent, a relatively-unknown bloke once said, 'I wish Kim was allowed to write more songs for the Pixies... because Gigantic is the best Pixies' song and Kim wrote it.' He 'connected with \[her and] that band so heavily that \[he] should have been in that band.'[^3] Unfortunately, he never joined the band. Un-unfortunately, he and a few buddies, Krist and Dave, followed Kim and friends around the world to jam with her later project: The Breeders.
+Set aside the satirical irony of her *Mrs. John Murphy*&nbsp; pseudonym, its spot-on observations of 'respectable' marriage standards in the 80s, and catch up to Kim's cerebral cacophony of noise nirvana. Of the indie intransigent, a relatively-unknown bloke once said, 'I wish Kim was allowed to write more songs for the Pixies... because Gigantic is the best Pixies' song and Kim wrote it.' He 'connected with \[her and] that band so heavily that \[he] should have been in that band.'[^3] Unfortunately, he never joined the band. Un-unfortunately, he and a few buddies, Krist and Dave, followed Kim and friends around the world to jam with her later project: The Breeders.
 
 That was in the early 90s, but very important for 1988!
 
-You see, Gigantic and a song off The Breeders' second album *Last Splash*&nbsp; share a particular piece of figurative language: 'Walk her everyday into a *shady place*&nbsp;' (Gigantic) and 'In *the shade*&nbsp;, in *the shade*&nbsp;' (Cannonball). Now, if you look at Cannonball's lyrics for about five seconds, you'll see no voyeur there. No, no, no. Whoever our protagonist in this song is, is mocking a "libertine."
+You see, Gigantic and a song off The Breeders' second album *Last Splash*&nbsp; share a particular piece of figurative language: 'Walk her everyday into a *shady place*&nbsp;' (Gigantic) and 'In *the shade*&nbsp;, in *the shade*&nbsp;' (Cannonball). Now, if you look at Cannonball's lyrics for about five seconds, you'll see no voyeur there. No, no, no. Whoever our protagonist in this song is, is mocking a 'libertine.'
 
-What is a "libertine," you ask?
+What is a 'libertine,' you ask?
 
 "I don't."
 
-Libertine: such a wondrous word! A perfect example of semantic degradation. My, my, the history of the word... a legal definition that got drunk, kidnapped an heiress, read pornography to the king, found a god, killed that god, and then woke up in a French dungeon... and *still*&nbsp; had the time to write a novel so vile it was essentially an Excel spreadsheet of torture.[^5] Predictably, some meanings ended as rock stars dead of syphilis and alcoholism at 33. But such travels! It would make a crimson cardinal blush, then fall off a branch to its death! Nowadays, the word's meaning is closer to "narcissist" than sexual immorality (of course, depending on context). It is amidst these meanings where we place our bets: 'in the shade' is Kim's euphemism for *a bit of how's your father*. Now, for Cannonball:
+Libertine: such a wondrous word! A perfect example of semantic degradation. My, my, the history of the word... a legal definition that got drunk, kidnapped an heiress, read pornography to the king, found a god, killed that god, and then woke up in a French dungeon... and *still*&nbsp; had the time to write a novel so vile it was essentially an Excel spreadsheet of torture.[^5]
+
+Predictably, some meanings ended much like 17th century poet rock stars dead of syphilis and alcoholism at age 33. But such travels! It would make the red lights of a fire engine made out of tomatoes blush! Nowadays, the word's meaning is closer to 'narcissist' than sexual immorality (of course, depending on context). It is amidst these meanings where we place our bets: 'in the shade' is Kim's euphemism for *a bit of how's your father*. Now, for Cannonball:
 
 > I know you, little libertine<br>
 > I know you're a real cuckoo<br><br>
@@ -107,7 +111,7 @@ Surely. And her lips did have a ball... well, let's say the phallus descended in
 
 ...
 
-Your face. That scowl. You look as if I just handed you a gift-wrapped box with "World's Okayest Golfer" etched on it. First, you're not a golfer; and second, let us turn to the remainder of the lyrics! I must continue applying my instinctual immaturity, give you my argument for a giant black penis! *Gigantic* you might say.
+Your face. That scowl. You look as if I just handed you a gift-wrapped box with 'World's Okayest Golfer' etched on it. First, you're not one for the links; and second, let us turn to the remainder of the lyrics! I must continue applying my instinctual immaturity, give you my argument for a giant black penis! *Gigantic* you might say.
 
 > And this I know his teeth as white as snow
 
@@ -120,7 +124,7 @@ What did I say about interrupting? Only a few more moments, and we'll get to the
 > What a gas it was to see him<br>
 > With her lips she said
 
-The word "gas" is intriguing. Internal combustion vagina? No. I argue Kim is sneaky with the definition here, as "gas" is also a way to say "talks too much." And if you continue the person...
+The word 'gas' is intriguing. Internal combustion vagina? No. I argue Kim is sneaky with the definition here, as 'gas' is also a way to say 'talks too much.' And if you continue the person...
 
 "Well, she'd better cut down a little then."
 
@@ -130,7 +134,7 @@ The word "gas" is intriguing. Internal combustion vagina? No. I argue Kim is sne
 
 ...
 
-And if you continue the personification, we have a vagina that too often says "let's have a ball, Paul." What a gas this analysis is! Now for the remainder of Kim's prose: patently obvious, even to the most intellectually myopic saboteurs of linguistic fortification. Let's thrust some previous lines in here for our happy ending:
+And if you continue the personification, we have a vagina that too often says 'let's have a ball, Paul.' What a gas this analysis is! Now for the remainder of Kim's prose: patently obvious, even to the most intellectually myopic saboteurs of linguistic fortification. Let's thrust some previous lines in here for our happy ending:
 
 > Gigantic, gigantic, gigantic<br>
 > A big, big love<br>
@@ -154,7 +158,9 @@ The member of mischief must be pulled out! Say, do you like the Beatles?
 
 "Oh, no. Well, yes. But, what do John, Paul, George, and Ringo have to do with this?"
 
-Nothing really, it's more that you and I share a passion with Steve Jobs.[^6] Yes, of course. That one. Let's get to the meat of it. He loved music, especially the Beatles, and Bob Dylan, and... well, you get the point. What I'm getting to is, like you and I, he appreciated the art, the meaning. It's not just noise. Not just a soundtrack to fill space. And most of all, not something to be taken at face value... and then used to sell crap to consumers. Corporate ass-kissing aside and acknowledgement of the societal cancer billions-of-dollars-mega-corps are, Apple is a marketing company that just happens to make widgets. And in the early digital-music era, 'tunes were the bait, and it worked. Apple became a culture curator by streamlining the digital-art-to-ears pipeline.
+Nothing really, it's more that you and I share a passion with Steve Jobs.[^6] Yes, of course. That one. Let's get to the meat of it. He loved music, especially the Beatles, and Bob Dylan, and... well, you get the point. What I'm getting to is, like you and I, he appreciated the art, the meaning. It's not just noise. Not just a soundtrack to fill space. And most of all, not something to be taken at face value... and then used to sell crap to consumers.
+
+Corporate ass-kissing aside and acknowledgement of the societal cancer billions-of-dollars-mega-corps are, Apple is a marketing company that just happens to make widgets. And in the early digital-music era, 'tunes were the bait, and it worked. Apple became a culture curator by streamlining the digital-art-to-ears pipeline.
 
 Let me see your phone. Ah, yes. The iPhone: the evolved iPod. The Shuffle is still my favorite. But I dickgress once again, come with me. And bring your phone.
 
@@ -164,7 +170,7 @@ There we are, yes, step through the door, which conveniently just appeared. The 
 
 "I expected Steve would be here, but who is that?"
 
-I asked Douglas Adams to be our stenographer for this moment. Don't worry, he knows if he uses the word "petunia" or the phrase "existential dread," he's right back to Highgate! Ah, there we are, Jimmy. We're all ready, just hit play on your phone. Give him a moment to watch it, and we'll see what dear Douglas cocked—err... cooked-up.
+I asked Douglas Adams to be our stenographer for this moment. Don't worry, he knows if he uses the word 'petunia' or the phrase 'existential dread,' he's right back to Highgate! Ah, there we are, Jimmy. We're all ready, just hit play on your phone. Give him a moment to watch it, and we'll see what dear Douglas cocked—err... cooked-up.
 
 ---
 
@@ -199,7 +205,7 @@ Jimmy, the prophecy is fulfilled. Mr. Adams: that needs work. The prose is just.
 
 "And what was the point of all that?"
 
-Just some thoughts. Many years ago my mentor, Dr. Professor von Overthink, said to me: "Can I get a combo three with a medium fizzy?" Once I up-sold him on a large and went to class the next day, he said "Remember, overthinking is just thinking... but better!" So, Jimmy, for consideration:
+Just some thoughts. Many years ago my mentor, Dr. Professor von Overthink, said to me: 'Can I get a combo three with a medium fizzy?' Once I up-sold him on a large and went to class the next day, he said 'Remember, overthinking is just thinking... but better!' So, Jimmy, for consideration:
 
 - Contemplate the cryptic calculus concluding a creative cover could complete a commercial considering the certifiable corker.
 
@@ -221,9 +227,9 @@ Just some thoughts. Many years ago my mentor, Dr. Professor von Overthink, said 
 
 "Why?"
 
-Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONEY*&nbsp; anyway. Like I was saying...
+Precisely! The ‘why’ is a distractor, Jimmy! A rhetorical decoy! You’ve cut straight to the foreskin. It is irrelevant whether Apple was attempting high-concept corporate chaoticism, or just setting their own genitals on fire (then trying to expense the extinguisher). The intent is secondary. The *revenue*&nbsp; is primary. Like I was saying...”
 
-"RICHARD PETER JOHNSON SMOKESTOOMUCH! Are you still in the shower? What are you doing in there?"
+"RICHARD PETER JOHNSON STROKESTOOMUCH! Are you still in the shower? What are you doing in there?"
 
 "Yes, mum. Just thinking about stuff."
 
@@ -238,8 +244,11 @@ Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONE
 ## Mittepistles
 
 [^1]: Sounds Magazine, May 1988 (unable to find this primary source)
+
 [^2]: [Kim Deal VPRO Interview 1988](https://www.youtube.com/results?search_query=1988+pixies+interview+vpro){:target="_blank"}
+
 [^3]: [Kurt Cobain on Gigantic, Far Out Magazine, 2022](https://faroutmagazine.co.uk/why-kurt-cobain-wished-kim-deal-wrote-more-pixies-songs){:target="_blank"} (unable to find a primary source, but know that of Kurt's top 50 albums (handwritten and in no particular order), *Surfer Rosa*&nbsp; was the second one he listed
+
 [^4]:
     And this I know his teeth as white as snow  
     What a gas it was to see him  
@@ -248,15 +257,11 @@ Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONE
 <br><br>
     She said, "Hey Paul, hey Paul, hey Paul  
     Let's have a ball  
-    Hey Paul, hey Paul, hey Paul  
-    Let's have a ball  
-    Hey Paul, hey Paul, hey Paul  
-    Let's have a ball"
+    . . .
 <br><br>
     Gigantic, gigantic, gigantic  
     A big, big love  
-    Gigantic, gigantic, gigantic  
-    A big, big love
+    . . .
 <br><br>
     Lovely legs there are  
     What a big black mass, what a hunk of love  
@@ -265,29 +270,12 @@ Golly, you're spot-on, Jimmy! It doesn't really matter. It's all about the *MONE
 <br><br>
     "Hey Paul, hey Paul, hey Paul  
     Let's have a ball  
-    Hey Paul, hey Paul, hey Paul  
-    Let's have a ball  
-    Hey Paul, hey Paul, hey Paul  
-    Let's have a ball"
+    . . .
 <br><br>
     Gigantic, gigantic, gigantic  
     A big, big love  
-    Gigantic, gigantic, gigantic  
-    A big, big love
-<br><br>
-    Gigantic, gigantic, gigantic  
-    A big, big love
-<br><br>
-    Gigantic, gigantic, gigantic  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love  
-    A big, big love
+    . . .
 
 [^5]: [Marquis_de_Sade_bibliography](https://en.wikipedia.org/wiki/Marquis_de_Sade_bibliography){:target="_blank"}
+
 [^6]: "My model for business is the Beatles. They were four guys who kept each other's kind of negative tendencies in check. They balanced each other, and the total was greater than the sum of the parts. That's how I see business: great things in business are never done by one person. They're done by a team of people." Steve Jobs 60 Minutes Interview, 2003.
