@@ -2,7 +2,7 @@
 title: Stewie's Law
 description: Irregardless, all of the sudden a whole 'nother.
 date: 2025-12-25
-last_modified_at: 2026-01-10  
+last_modified_at: 2026-01-29  
 toc: true
 ---
 
@@ -13,7 +13,7 @@ toc: true
 
 ***
 
-#### 1. includes / including / etc.
+#### 1. includes / including
 
 > This word to identifies a subset of something; however its function is to provide a non-exhaustive list of examples. It implies there are other items in the set. Also, adding *"but not limited to*" is redundant. If you ever find yourself wanting to provide an exhaustive list of items in a set, just use *"are."*
 >
@@ -120,11 +120,15 @@ toc: true
 
 > Just perused Romeo and Juliet. Delightful comedy! Those two crazy kids pretending to be dead to get out of family dinners. Had me in stitches. Shakespeare really understood happy endings.
 
-#### 2. slam
+#### 2. slam / blast / call out
 
-> Slam! *da-duh-duh* Let the news be news! Troublesome use, extra double dum, kill the copycat kid act, journalists—mad authors of anguish language polluted, or Onyx hit you in the face.[^3] So stop using Slam! as content. Or else I'll borrow Shaq from the Fu-Schnickens and slam that, jam it, and make sure it's broke *what's up doc, can we rock?* not being braggadocious, supercalifragelistic, Shaq is alidocious.[^4]
+> Slam!—*da-duh-duh*—Let the news be news! Troublesome use, extra double dum, kill the copycat kid act, journalists—mad authors of anguish language polluted, or Onyx hit you in the face.[^3] So stop using Slam! as content. Or else I'll borrow Shaq from the Fu-Schnickens and slam that, jam it, and make sure it's broke—*what's up doc, can we rock?*—not being braggadocious, supercalifragelistic, Shaq is alidocious.[^4]
 >
-> Nobody cares who critiqued another on social media, we care about substantive events.
+> And Blast!, 'cause as AdRock Slams!, "I'm the master blaster, drinking up the Shasta, my voice sounds sweet 'cause it has to."[^5] And I'll send Billie Joe after you, 'cause as he Slams! "To me, it's having a blast, I'm taking all you down with me..."[^6]
+>
+> And *call out* is right out! I hate it like "I hate the rain and sunny weather, and I, I hate beach and mountains too. And I, I don't like a thing about the city, no, no. And I, I, I, hate everything about you."[^7]
+>
+> Nobody cares who critiqued another on social media, we care about substantive events. Keep your gladiatorial aggregation, your nutpicking, your manufactured kinetic churnalism for your two-minute power pose in front of the steamed-up mirror after all the shower argument victories.
 
 ***
 
@@ -137,3 +141,9 @@ Notefoots
 [^3]: *Slam* - Onyx (1993)
 
 [^4]: *What's Up Doc? (Can We Rock)* - Fu-Schnickens (1993)
+
+[^5]: *The New Style* – Beastie Boys (1986)
+
+[^6]: *Having a Blast* – Green Day (1994)
+
+[^7]: *Everything About You* – Ugly Kid Joe (1991)

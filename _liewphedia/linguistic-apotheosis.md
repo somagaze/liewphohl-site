@@ -2,6 +2,7 @@
 title: Linguistic Apotheosis
 description: Neat words and stuff that are cool.
 date: 2026-01-10
+last_modified_at: 2026-01-29  
 toc: true
 ---
 
@@ -22,17 +23,21 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 
 ***
 
-#### 1. Bromides
+#### 1. bromides
 
 > "At the end of the day, our people are our greatest asset," he varnished. This particular platitude had been used so frequently that it had achieved a kind of linguistic transparency; people could look right through it and see the CEO wondering if they’d left the oven on at home. A "safe" statement. The rhetorical equivalent of an unseasoned chicken breast impossible to find offensive, yet failing to provide any actual sustenance for the soul. The room remained silent, save for the rhythmic ticking of three hundred people simultaneously deciding what to have for lunch. "Tastes like chicken," muttered one.
 
-#### 2. Notwithstanding
+#### 2. notwithstanding
 
 > Notwithstanding rule (1), the logical opposite of "subject to."
 
-#### 3. Overawe
+#### 3. overawe
 
 > "I walked out of that 'Smart Footwear Boutique' feeling like a new man. A man with a high-fidelity, dual-band connection to my own ankles. The salesman had been good—real good. He used words like *low-latency gait optimization* and *encrypted biomechanical tethering*. Something about him...&nbsp; I couldn't speak or think. All I could do is handover the first of five payments of $64.99. I believe him: Bluetooth shoelaces are going to transform this world. I'll surely get that job at the Ministry of Silly Walks now!"
+
+#### 4. intuit
+
+> Somehow, I immediately knew—without conscious reasoning—that back-formed words are neat and cool, especially verbs. This is my favorite verb that accurately captures the forensic process of staring at a draft regulation and smelling the lawsuit before it has even been printed. It then takes me 30 minutes to explain the issue.
 
 ***
 
@@ -43,7 +48,7 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 
 ***
 
-#### 1. Subject to
+#### 1. subject to
 
 > Subject to rule (2), the logical opposite of "notwithstanding." *I've fallen for you like a blind roofer*.
 
@@ -56,7 +61,7 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 
 ***
 
-#### 1. Cathartic
+#### 1. cathartic
 
 > I will find relief and be free from repressed contempt of this word if I never hear it again.
 
