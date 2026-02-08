@@ -40,7 +40,7 @@ toc: true
 
 > Overwhelmingly applies to the legal / policy world, but others could use a reminder that their beautiful, perfect, amazing, profound, nobel-prize-un-winning, aged, orange, sleepy language is a bit over-tuned.
 >
-> - Imagine if you will, for a moment... you own a store. Not just any store, *the* store. The only one that sells a framed picture of Mel Tormé. There is one pedestal in your small store, and one framed picture of Mel Tormé sits upon it, because it is all you sell, and you are the only seller. Your first customer enters: "May I purchase a small framed picture of Mel Tormé?" You are perplexed. "I only have one framed picture of Mel Tormé, and it is all like the others as they are like it. There is no small. To say otherwise would mean there is another that is not small!"
+> - Imagine if you will, for a moment... you own a store. Not just any store, *the* store. The only one that sells a framed picture of Mel Tormé. There is one pedestal in your small store, and one framed picture of Mel Tormé sits upon it, because it is all you sell, and you are the only seller. Your first customer enters: "May I purchase a small framed picture of Mel Tormé?" You are perplexed. "I only have one framed picture of Mel Tormé, and it is all like the others as they are like it. There is no small. To say otherwise would mean there is another that is not small! And that is impossible because I have the Mel-Tormé-opoly in the pictures-of-people-nicknamed-the-velvet-fog sector."
 >
 > I officially despise textual traps like this. They are so formally annoying that it's almost (allegedly) like when Burt (allegedly) pranked me (allegedly) by sneakily inserting (allegedly) custom autocorrects (allegedly) into my word (allegedly) processor (allegedly). Burt was such a AWESOME DUDE, I'm going to NEVER BE AS AWESOME AS BURT, and when I'm done with him, he's gonna RULE THE WORLD.
 >
@@ -81,7 +81,18 @@ toc: true
 
 #### 1. *per se*
 
-> No, you're not distinguishing the intrinsic nature of something from its extrinsic qualities; you're simply qualifying a statement about something. I am willing to bet what you really mean is *intrinsically, inherently, essentially, necessarily, technically, strictly, exactly, simply, alone, solely*, or something similar. Misuse of *per se* is *negligence per se.* In fact, don't use the adverbial phrase or an adverb in its place... they suck. If you do, I will find you negligent under the theory of *res ipsa loquitur* &nbsp;because adverbs hurt me.
+> No, you're not distinguishing the intrinsic nature of something from its extrinsic qualities; you're simply qualifying a statement. I am willing to bet what you really mean is *intrinsically, inherently, essentially, necessarily, technically, strictly, exactly, simply, alone, solely*, or something similar. Misuse of *per se* is *negligence per se.* In fact, don't use the adverbial phrase or an adverb in its place... they suck. If you do, I will find you negligent under the theory of *res ipsa loquitur* &nbsp;because adverbs hurt me.
+>
+> To use *per se* correctly, there needs to be *something* referred to that has intrinsic qualities, and the contrast needs to counter one or more intrinsic qualities of **that** *something*; and not be a "truth buffer" by describing how *something else* is contrasted to that *something*.
+>
+> Incorrect use:
+> - BAD: "I am not the subject matter expert [*something*] ***per se***; I just have the most experience with the chemistry of guano [*something else*], because I have watched *Ace Ventura: When Nature Calls* too many times [*truth buffer*]. Bumblebee Tuna."
+>   - Here, the person states they are not "X" because "Y." Nothing in this statement contrasts an intrinsic quality of *subject matter expert*; instead, the statement just describes the experience of the person and why they are not a subject matter expert.
+>
+> - REVISION: "I'm not [***exactly, technically, actually***] the subject matter expert; I just have the most experience with the chemistry of guano, because I've watched *Ace Ventura: When Nature Calls* too many times. My, my, my... this fruit paste is delicious."
+>
+> Correct use:
+> - GOOD: "It is not an ugly pageant [*something*] *per se*, as the men were quite handsome [*contrast*]; the ugliness [*something*] resided in the hearts of the judges [*why it is a contrast*]."
 
 ***
 
@@ -129,6 +140,10 @@ toc: true
 > And *call out* is right out! I hate it like "I hate the rain and sunny weather, and I, I hate beach and mountains too. And I, I don't like a thing about the city, no, no. And I, I, I, hate everything about you."[^7]
 >
 > Nobody cares who critiqued another on social media, we care about substantive events. Keep your gladiatorial aggregation, your nutpicking, your manufactured kinetic churnalism for your two-minute power pose in front of the steamed-up mirror after all the shower argument victories.
+
+#### 3. literally vs. figuratively
+
+> It's literally too late for this complaint. Literally has literally become a contronym for use in   hyperbolic intensity. I literally fall out of my chair and roll on the floor laughing when I see literally used for hyperbole in legal arguments.
 
 ***
 
