@@ -2,6 +2,7 @@
 title: Sophist's Gambit
 description: A rhetorical trap engineered for a controlled collapse.
 date: 2025-11-30
+last_modified_at: 2026-02-10
 toc: true
 ---
 

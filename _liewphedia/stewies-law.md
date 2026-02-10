@@ -2,7 +2,7 @@
 title: Stewie's Law
 description: Irregardless, all of the sudden a whole 'nother.
 date: 2025-12-25
-last_modified_at: 2026-01-29  
+last_modified_at: 2026-02-10  
 toc: true
 ---
 
@@ -86,12 +86,14 @@ toc: true
 > To use *per se* correctly, there needs to be *something* referred to that has intrinsic qualities, and the contrast needs to counter one or more intrinsic qualities of **that** *something*; and not be a "truth buffer" by describing how *something else* is contrasted to that *something*.
 >
 > Incorrect use:
+>
 > - BAD: "I am not the subject matter expert [*something*] ***per se***; I just have the most experience with the chemistry of guano [*something else*], because I have watched *Ace Ventura: When Nature Calls* too many times [*truth buffer*]. Bumblebee Tuna."
 >   - Here, the person states they are not "X" because "Y." Nothing in this statement contrasts an intrinsic quality of *subject matter expert*; instead, the statement just describes the experience of the person and why they are not a subject matter expert.
 >
 > - REVISION: "I'm not [***exactly, technically, actually***] the subject matter expert; I just have the most experience with the chemistry of guano, because I've watched *Ace Ventura: When Nature Calls* too many times. My, my, my... this fruit paste is delicious."
 >
 > Correct use:
+>
 > - GOOD: "It is not an ugly pageant [*something*] *per se*, as the men were quite handsome [*contrast*]; the ugliness [*something*] resided in the hearts of the judges [*why it is a contrast*]."
 
 ***
