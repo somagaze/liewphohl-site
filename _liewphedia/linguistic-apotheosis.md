@@ -8,11 +8,11 @@ toc: true
 
 ## TL:DR
 
-A meticulously curated catalog of unimpeachable eloquence that earned a permanent right to exist in my vocabu...&nbsp; voca...&nbsp; cabulatory...&nbsp; in the words I know. Also, words that suck. There are rules here:
+A meticulously curated catalog of unimpeachable eloquence that earned a permanent right to exist in my vocabu...&nbsp; voca...&nbsp; cabulatory...&nbsp; in the words I know. Also, words that suck. There are two rules here:
 
-1. Any definition that references this rule must include the statement, "I am a little duck"; and
+1. Any entry that references this rule must include the statement, "I am a little duck"; and
 
-2. Any definition that references this rule must include a quote from Hot Shots!.
+2. Any entry that references this rule must include a quote from Hot Shots!.
 
 ***
 
