@@ -2,7 +2,7 @@
 title: Stewie's Law
 description: Irregardless, all of the sudden a whole 'nother.
 date: 2025-12-25
-last_modified_at: 2026-02-10  
+last_modified_at: 2026-02-14  
 toc: true
 ---
 
@@ -69,6 +69,22 @@ toc: true
 > | If A, then B and C; if B, then C and D | ABC or BCD                                        |
 > | A, B, and C, otherwise D               | ABC or D                                          |
 > | Any combination of A, B, and C         | [&nbsp;&nbsp;&nbsp;], A, B, C, AB, AC, BC, or ABC |
+
+***
+
+#### 2. we've always done it that way (and its variations)
+
+> "That's what Cadet Mahoney told me to do!"
+>
+> "Lt. Harris taught me to do it this way."
+>
+> No quicker way to say "I have no idea why." At best, it's a weak attempt to avoid saying "I don't know" or "I'm wrong." And there is nothing wrong with that; heck, I'm wrong all the time and have huge knowledge gaps.
+>
+> At worst, it implies lack of critical thinking skills. In this world, there's not a lot of stuff you can take at face value (especially on the internet). Think for yourself: are immigrants *really*&nbsp; eating cats and dogs in Ohio?
+>
+> An entire year of my professional experience was spent re-training people: no, you don't just do what someone told you without understanding why. Don't delete information in an eligibility system because it's throwing errors. You find out why the error occurs. And fix it. There is nothing wrong with asking for help.
+>
+> When I wasn't training, I was helping my team send out millions of dollars to reimburse thousands of low-income individuals. We even needed legislative appropriation to get the money. I bet that was an embarrassing conversation between my employer and the legislature.
 
 ***
 
