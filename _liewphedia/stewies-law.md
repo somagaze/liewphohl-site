@@ -15,7 +15,7 @@ toc: true
 
 #### 1. includes / including
 
-> This word to identifies a subset of something; however its function is to provide a non-exhaustive list of examples. It implies there are other items in the set. Also, adding *"but not limited to*" is redundant. If you ever find yourself wanting to provide an exhaustive list of items in a set, just use *"are."*
+> This word identifies a subset of something; however its function is to provide a non-exhaustive list of examples. It implies there are other items in the set. Also, adding *"but not limited to*" is redundant. If you ever find yourself wanting to provide an exhaustive list of items in a set, just use *"are."*
 >
 > - Days of the week ***include*** Mon, Thu, and Sat.
 > - Days of the week ***are*** Mon, Tue, Wed, Thu, Fri, Sat, and Sun.
