@@ -27,17 +27,27 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 
 > "At the end of the day, our people are our greatest asset," he varnished. This particular platitude had been used so frequently that it had achieved a kind of linguistic transparency; people could look right through it and see the CEO wondering if they’d left the oven on at home. A "safe" statement. The rhetorical equivalent of an unseasoned chicken breast impossible to find offensive, yet failing to provide any actual sustenance for the soul. The room remained silent, save for the rhythmic ticking of three hundred people simultaneously deciding what to have for lunch. "Tastes like chicken," muttered one.
 
-#### 2. notwithstanding
+#### 2. intuit
+
+> Somehow, I immediately knew—without conscious reasoning—that back-formed words are neat and cool, especially verbs. This is my favorite verb that accurately captures the forensic process of staring at a draft regulation and smelling the lawsuit before it has even been printed. It then takes me 30 minutes to explain the issue.
+
+#### 3. notwithstanding
 
 > Notwithstanding rule (1), the logical opposite of "subject to."
 
-#### 3. overawe
+#### 4. overawe
 
 > "I walked out of that 'Smart Footwear Boutique' feeling like a new man. A man with a high-fidelity, dual-band connection to my own ankles. The salesman had been good—real good. He used words like *low-latency gait optimization* and *encrypted biomechanical tethering*. Something about him...&nbsp; I couldn't speak or think. All I could do is handover the first of five payments of $64.99. I believe him: Bluetooth shoelaces are going to transform this world. I'll surely get that job at the Ministry of Silly Walks now!"
 
-#### 4. intuit
+#### 5. pronoia
 
-> Somehow, I immediately knew—without conscious reasoning—that back-formed words are neat and cool, especially verbs. This is my favorite verb that accurately captures the forensic process of staring at a draft regulation and smelling the lawsuit before it has even been printed. It then takes me 30 minutes to explain the issue.
+> Just wait, I will tell you soon.
+>
+> Not only is it awesome, it will be the most exciting thing to happen to you ever. Just think, every corner you round, every conversation you overhear, every phone call you receive, every piece of mail, breaking news article, message from an old friend... literally any event in your life from now on, you will be (figuratively) perpetually on the edge of your seat on the edge of a cliff, balanced on one chair leg, on hold with the IRS waiting for a human to talk to, holding that lottery ticket that the one person who told the guy that told your cousin who teaches at the elementary school that your kid goes to whose friend mentioned one time that they heard the winning numbers on the news.
+>
+> Trouble is, your ticket is one number off (the last of six is eleventy billion, but you overheard eleventy billion plus one; but that's not even a number... yet).  You hope one person in the chain made a mistake and you have the winner. You gotta check, but you can't, but you want to, but you can't. But, wow... if you won that lifetime supply of Stumptown Coffee, you simply... wouldn't know what to do with your life. Damn quietistic lotto-brain stall.
+>
+> So just wait a bit, okay? You're afraid? No, it's different than that. Almost the opposite, but it keeps you walking through the dark, fearful of the end; as opposed to being afraid of even turning the lights out.
 
 ***
 
