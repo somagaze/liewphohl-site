@@ -47,7 +47,7 @@ tags: [music, nirvana, discrimination, opinioskit]
 
 "XKCD 1053"
 
-"XKCD 1053. So, yeah... xennials. My favorite things were Coupland's margin notes. So easy to identfy with. Here."
+"XKCD 1053. So, yeah... xennials. My favorite things were Coupland's margin notes. So easy to identify with. Here."
 
 "Hmm...
 
