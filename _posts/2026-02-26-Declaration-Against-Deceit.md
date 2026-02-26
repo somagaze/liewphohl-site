@@ -2,7 +2,7 @@
 title: Right to Bear Thoughts, No. 002
 description: A Sword-Day, a Red Day, Ere the Sun Rises!
 date: 2026-02-26
-last_modified_at: 2026-01-29
+last_modified_at:
 tags: [declaration, discrimination, legal, rant, rights, selfishness, tyranny, wordplay]
 ---
 
