@@ -12,7 +12,7 @@ toc: true
 > <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Freddie Wong as "Asian," <a href="https://www.youtube.com/watch?v=IHQr0HCIN2w" target="_blank" rel="noopener noreferrer">Mexican Standoff, feat. Key & Peele (RocketJump)</a>
 {: .prompt-tip }
 
-***
+---
 
 ## HeadOn!
 
@@ -32,13 +32,13 @@ toc: true
 ><br>"Super Bowl commercials are always good. Bro, remember that Bud Light one with the bear?"  
 ><br>"Yeah, dawg. I also liked the one with Leonard Nimoy... what was that one for again? Eh, oh well."
 
-***
+---
 
 > ***narrator from the sky into their subconscious***
 > <br>"Aleve."
 {: .prompt-danger }
 
-***
+---
 
 >"Oh, I remember that one. I can't believe companies pay random celebrities to push a product that has nothing to do with the celebrity."  
 ><br>"Diddy and Diet Pepsi."  
@@ -49,13 +49,13 @@ toc: true
 ><br>"I only use Aleve, I'll grab some for you."  
 ><br>"Thanks. Maybe I'll buy some for myself."
 
-***
+---
 
 > ***narrator from the sky to reader***
 > <br>"Little did they know, big-pharma owns both HeadOn and Aleve."
 {: .prompt-danger }
 
-***
+---
 
 ## Concept
 
@@ -83,11 +83,11 @@ Layer Two:
   - Is skeptical claim [A]'s rejection was a decoy, and there may be something else afoot: proponent wanted opponent to reject [A], **AND** wanted opponent to stop giving air time to [A], **AND** wanted [A] to be forgotten as to not raise any suspicion over [B]
 5. If the former under (4) is what happens, the gambit succeeds because opponent never considers there may be a [B]. If the latter, the gambit may fail because the opponent "rejected the rejection" of [A], so there must be a [B], and [B] may also be rejected
 
-***
+---
 
 *(with the latter under layer two's (4), the gambit can keep going while the opponent rejects subsequent claims [B], [C], [WHATEVER]. Eventually, the opponent will stop at [WHATEVER]. And as long as the proponent's desired outcome is [WHATEVER+1], the gambit is successful. this is described below)*
 
-***
+---
 
 Layer [WHATEVER]:
 

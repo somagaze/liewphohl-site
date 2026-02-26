@@ -19,7 +19,7 @@ You'll learn several very specific, highly unqualified assertions, much in the s
 
 Precious, verifiable claims about the real world, the ability to spell neccissary on the first try, where your keys are, possibly an hour of sleep. Though if you feel your eyes closing, please do not use Liewphedia as a pillow; it may contain sharp metaphors. In closing, what do you do with an elephant with three balls? Walk him, and pitch to the rhino.
 
-***
+---
 
 ## Entries
 

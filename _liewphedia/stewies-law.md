@@ -2,7 +2,7 @@
 title: Stewie's Law
 description: Irregardless, all of the sudden a whole 'nother.
 date: 2025-12-25
-last_modified_at: 2026-02-14  
+last_modified_at: 2026-02-10
 toc: true
 ---
 
@@ -11,7 +11,7 @@ toc: true
 *Core Lexical Crimes - Subjective Building Blocks of Chaos*
 </div>
 
-***
+---
 
 #### 1. includes / including
 
@@ -48,14 +48,14 @@ toc: true
 >
 > But I will be fine next week because SOMEBODY ONCE TOLD ME THE WORLD'S GONNA ROLL ME; I AIN'T THE SHARPEST TOOL IN THE SHED....[^2]
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## **Phrases**
 *Unfortunate and/or Regrettable Combinations (we've always used them that way)*
 </div>
 
-***
+---
 
 #### 1. and / or
 
@@ -70,7 +70,7 @@ toc: true
 > | A, B, and C, otherwise D               | ABC or D                                          |
 > | Any combination of A, B, and C         | [&nbsp;&nbsp;&nbsp;], A, B, C, AB, AC, BC, or ABC |
 
-***
+---
 
 #### 2. we've always done it that way (and its variations)
 
@@ -86,14 +86,14 @@ toc: true
 >
 > When I wasn't training, I was helping my team send out millions of dollars to reimburse thousands of low-income individuals. We even needed legislative appropriation to get the money. I bet that was an embarrassing conversation between my employer and the legislature.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## **Legalese**
 *Res Ipsa Loquitur - The Aberration of Latinate Terminology Ad Absurdum.*
 </div>
 
-***
+---
 
 #### 1. *per se*
 
@@ -112,20 +112,20 @@ toc: true
 >
 > - GOOD: "It is not an ugly pageant [*something*] *per se*, as the men were quite handsome [*contrast*]; the ugliness [*something*] resided in the hearts of the judges [*why it is a contrast*]."
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## **Bureaucratese**
 *Synergistic Deliverables: A Solution-Oriented Modality with KPIs.*
 </div>
 
-***
+---
 
 #### 1. offline
 
 > Due to a non-linear prioritization of competing work-streams, the preliminary synthesis for this engagement was not finalized; I will initiate a post-session reconciliation for subsequent outreach as to not unnecessarily increase labor costs by including this engagement's attendees whom are unrelated to such reconciliation.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## **Non-literals**
@@ -136,14 +136,14 @@ toc: true
 
 > Personally, for me, I’ve found that the future is just the past but happening later, which is why, from my personal perspective of my thoughts that come from my brain, the only way to get to tomorrow is for me, personally, to wait for today to stop being the present. Personally.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## **Existential Linguistic Failures**
 *Literal Semantic Drift Imprisonment - Metaphorically Stop Trying to Make "Fetch" Happen.*
 </div>
 
-***
+---
 
 #### 1. peruse
 
@@ -163,7 +163,7 @@ toc: true
 
 > It's literally too late for this complaint. Literally has literally become a contronym for use in   hyperbolic intensity. I literally fall out of my chair and roll on the floor laughing when I see literally used for hyperbole in legal arguments.
 
-***
+---
 
 Notefoots
 

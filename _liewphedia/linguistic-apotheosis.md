@@ -2,7 +2,7 @@
 title: Linguistic Apotheosis
 description: Neat words and stuff that are cool.
 date: 2026-01-10
-last_modified_at: 2026-01-29  
+last_modified_at: 2026-02-22  
 toc: true
 ---
 
@@ -14,14 +14,14 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 
 2. Any entry that references this rule must include a quote from Hot Shots!.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## High-Fidelity Lexemes
 *Rhetorical Mechanisms - Precise Implementations of Intent.*
 </div>
 
-***
+---
 
 #### 1. bromides
 
@@ -49,30 +49,30 @@ A meticulously curated catalog of unimpeachable eloquence that earned a permanen
 >
 > So just wait a bit, okay? You're afraid? No, it's different than that. Almost the opposite, but it keeps you walking through the dark, fearful of the end; as opposed to being afraid of even turning the lights out.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## Prompt-Critical Propositions
 *Calculated Cadences of More Than One Word - Syntactical Perfection Among Syllables.*
 </div>
 
-***
+---
 
 #### 1. subject to
 
 > Subject to rule (2), the logical opposite of "notwithstanding." *I've fallen for you like a blind roofer*.
 
-***
+---
 
 <div style="text-align: center;" markdown="1">
 ## Acoustic Grit
 *Phonological Contaminants That Trip Sensory Safety Breakers and Give Me "the Yuck."*
 </div>
 
-***
+---
 
 #### 1. cathartic
 
 > I will find relief and be free from repressed contempt of this word if I never hear it again.
 
-***
+---

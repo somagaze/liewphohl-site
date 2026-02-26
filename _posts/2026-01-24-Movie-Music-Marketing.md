@@ -2,6 +2,7 @@
 title: "Movies, Music, Marketing: Brilliant or Perverse" 
 description: (MMMBop)
 date: 2026-01-24
+last_modified_at: 2026-01-29
 permalink: /5
 categories: [the arts]
 tags: [allegory, capitalism, figurative, movies, music, opinioskit, pixies]

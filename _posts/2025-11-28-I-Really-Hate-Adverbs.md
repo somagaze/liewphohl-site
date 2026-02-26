@@ -2,18 +2,19 @@
 title: I Really Hate Adverbs
 description: But I like irony.
 date: 2025-11-28
+last_modified_at: 2025-12-02
 permalink: /1
 categories: [the craft]
 tags: [essay, grammar, kraken, legal, rhetoric, style, writing]
 math: true
 ---
 
-***
+---
 
 >*“Don’t worry about the election. Trump is not going to win. I made fucking sure of that . . . hahaha.”*  
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- **Dr. Eric Coomer**, *King v. Whitmer*, First Amended Complaint, Case No. 20-CV-13134 (2020)
 
-***
+---
 
 ## Background
 
@@ -37,12 +38,12 @@ Competent authors synergize content and rhetoric to articulate abstractions with
 
 Hence, the proliferation of adverbs with flawed content fill the remaining two quadrants. The unconsciously incompetent author populates one naturally, they simply do not know better. But what of the consciously incompetent author? The skilled writer who deliberately prowls the boundary between plausible and absurd? Dubious claims skillfully described with weaponized rhetoric: the strategically awful use of adverbs.
 
-***
+---
 
 >*"I must apologize for Wimp Lo. He is an idiot. We have purposely trained him wrong, as a joke."*  
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Master Tang, Kung Pow: Enter the Fist (2002)
 
-***
+---
 
 The United States Districct Court, Northern Distrcoit of Georgia, received a complaint in 2000, shortly after the presidential election (yes, that was the spelling). Several days later, a similar complaint was filed in the Eastern District of Michigan. Lawyers wrote the complaints, of course; and these lawyers were admitted to practice law in federal court. Almost every U.S. state requires a law degree to be admitted to practice; and a law degree requires an undergraduate degree.
 
@@ -138,7 +139,7 @@ This is not about creating balanced argumentation; it is about manipulating perc
 
 The end result? A document engineered not for truth-seeking but for manipulation via truthiness. One that relies on exploiting vulnerabilities in how people process information rather than presenting a compelling case based on facts and logic. It prioritizes seeming legitimate over being legitimate. The consciously incompetent author's prayer:
 
-***
+---
 
 >*That argument isn't weak.  
 >And if it is, my phrasing wasn't intended to mislead.  
@@ -148,7 +149,7 @@ The end result? A document engineered not for truth-seeking but for manipulation
 >And if they comprehend fully, they choose to misunderstand.  
 >And for the other readers, they serve my ends.*
 
-***
+---
 
 ## In the Alternative
 

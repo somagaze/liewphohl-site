@@ -2,6 +2,7 @@
 title: Right to Bear Thoughts, No. 001
 description: He's the One Who Likes All Our Pretty Songs.
 date: 2026-02-25
+last_modified_at: 2026-02-26
 permalink: /001
 categories: [the right to bear thoughts]
 tags: [music, nirvana, discrimination, opinioskit]

@@ -2,6 +2,7 @@
 title: Reactance
 description: A short, allusive, paronomastic, acrostical adventure.
 date: 2025-11-30
+last_modified_at: 2026-02-22
 permalink: /2
 categories: [the system]
 tags: [anecdote, bureaucracy, malicious-compliance, wordplay]

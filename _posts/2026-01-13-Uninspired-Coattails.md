@@ -2,6 +2,7 @@
 title: Uninspired Coattails
 description: Thoughts on art, novelty, and iteration.
 date: 2026-01-13
+last_modified_at: 2026-02-26
 permalink: /4
 categories: [the arts]
 tags: [allegory, build-fly-dream, essay, gaming, imagimotion, kerbal-space-program, kraken, lcd-soundsystem, m83, missing-persons, mono-no-aware, music, smashing-pumpkins, trickster, vemödalen]
@@ -11,48 +12,48 @@ tags: [allegory, build-fly-dream, essay, gaming, imagimotion, kerbal-space-progr
 
 I first heard "Destination Unknown" in the mid-90s—a Missing Persons track via a Smashing Pumpkins cover on their box set *The Aeroplane Flies High*. While the 1982 original maps the expanse of an uncertain future, one stanza serves as an inquiry into human utility:
 
-***
+---
 
 > *You ask yourself / When will my time come? / Has it all been said and done? / I know I'll leave when it's my time to go / 'Til then I'll carry on with what I know*
 
-***
+---
 
 The unknown destination protocol: a cycle of repetition that prompts a systemic audit. If existence is merely a redundant iteration, the purpose of the individual becomes a farce. Nothing but dust left behind, absorbed by the earth, as if they were never here.[^1]
 
 The answer is not found in the external search for legacy, but in the subjective articulation of the experience. Walt Whitman identified this recurring question in 1867 with his poem "O me, O life." His answer:
 
-***
+---
 
 > *That you are here—That life exists and identity / That the powerful play goes on, and you may contribute a verse*.[^2]
 
-***
+---
 
 John Koenig later labeled the emotional dread of this redundancy as *vemödalen*—the fear that every frontier has already been traced by others:
 
-***
+---
 
 > "In the end, we find ourselves with nothing left to say... idly tracing outlines left by others long ago... as if we were never here at all."[^3]
 
-***
+---
 
 "Destination Unknown" charts a course through this existential tempest: from vague unease, to acute personal doubt, to resignation, and finally nihilistic surrender:
 
-***
+---
 
 > *Life is so strange when you don't know... How can you tell where you're going to?... I don't know what to do... I guess it doesn't matter anyway*
 
-***
+---
 
 This surrender often manifests as a retreat into the mechanical utility of the present. Existence as a marginal unit of production. This mode treats human experience as a monetary resource to be extracted: a larger mortgage or fancy car, a more efficient or desirable widget, or a modestly higher quarterly return for an employer. A unique individual accepts the calcification of the soul in exchange for the perceived stability of the predetermined societal box that defines their legacy.[^4] Just like every other individual who is unique like every other individual.
 
 But it is a choice to accelerate entropic churn of consumerism. If the pursuit of capital is merely the optimization of a closed system and its resource extraction, then there must be another pursuit that introduces negentropy. Novelty lies beyond individual utility, the sacred, the legal. It pushes the boundary of individual meaning, the profane, the taboo.[^5] Deliberate boundary-work that challenges the terminal specifications of the *perfect* institution. The only rational counter-agent is art, which pushes against this boundary, and succeeds.
 
-***
+---
 
 > *Ars gratia artis*
 {: .prompt-info }
 
-***
+---
 
 Art is more than aesthetic indulgence for observers; it is functional boundary-work by the artist. To exist in the liminal space between is to perform a necessary stress test on reality. By shifting these boundaries, the artist prevents the stagnation of the soul.
 
@@ -80,12 +81,12 @@ And with its coalescence and actualization comes a loosening. A letting go of th
 
 And there's a peculiar ache to it, a recognition that every imagined world is also a shadow cast by the limitations of reality. A yearning for something beyond, even while grasped, as you hold it vividly within your grasp. It isn’t longing for a specific thing; it’s longing for the capacity to bring *anything* into being without constraint. A fundamental dissatisfaction with what *is*, fueled by an unwavering belief in what *could be*.
 
-***
+---
 
 > A brief moment to package the preceding: incorporation by reference, a linguistic macro, semantic compression... anything but "term of art." Fake word of convenience for this emotion: **imagimotion**[^8]
 {: .prompt-info }
 
-***
+---
 
 What does externalizing imagimotion look like? The artist constructs a vessel that captures the very moment the abstract crosses the threshold into existence. The art is a forensic record of a shameless dance in the space between. To step through the final layer of abstraction is to create art that functions as a *gift*.[^9] Experiential, not consumable. By externalizing imagimotion, the artist proves that the powerful play is not a closed loop of iteration, but an open system where genuine novelty remains possible. The verse contributed is not a repetition of the past, but a victory over the tempest of an iterative existence.
 
@@ -93,7 +94,7 @@ What does externalizing imagimotion look like? The artist constructs a vessel th
 
 Anthony Gonzalez wrote a song around 2011 or so. This song is the last track on the double album HurryUp,We'reDreaming. (stylized as so). Anthony is a founding member of the French group M83 (named after Messier 83 - the Southern Pinwheel Galaxy). The song is Outro, and it has four lines:
 
-***
+---
 
 > *I'm **the** king of my own land*
 >
@@ -103,23 +104,23 @@ Anthony Gonzalez wrote a song around 2011 or so. This song is the last track on 
 >
 > *Now and forever, I'm your king*
 
-***
+---
 
 > Before we go any further, one thing—I bolded each "**the**" for a reason. Anthony's pronunciation of each is, in my opinion, the most beautiful I have ever heard. The word fails to capture the sound, but his "shhzhhee" is chilling. I recommend giving the [song](https://www.youtube.com/watch?v=1cEy4UyYHI0){:target="_blank"} a listen before proceeding.
 {: .prompt-tip }
 
-***
+---
 
 Of course, interpretation of art is completely subjective. Absent a creator's explicit statement of meaning, there is no correct interpretation. However, even with one, the beauty of art is that no person is wrong in interpreting their own meaning. And sometimes, that's the point: meaning is indeterminate by design.
 
-***
+---
 
 > "*I just think it’s unnecessary because it’s personal. Songs are songs and to reduce them is to waste them. If I wanted to make something about something I would write an essay."*
 >
 > - James Murphy[^10]
 {: .prompt-info }
 
-***
+---
 
 It is fair to disagree with others, understanding that subjective interpretation in this context can never be wrong. However, reasoning is an underappreciated art. So, what is Outro about? To me? Imagimotion.
 
@@ -139,19 +140,19 @@ A single brass note begins a build up of strings while an subtle, lone voice add
 
 As the third voidic wave grows, strings return in pronouncement. This time, with percussion implying something new, an intrinsic knowing of success or progress. What follows is the same orchestral inflections as before, with the first three culminating equally in strength. Each growth accompanied by the first three lines of the song.
 
-***
+---
 
 > *I'm the king of my own land*
 
-***
+---
 
 From a literal and logical perspective, redundant. Kings reign over kingdoms, over land. And I, as king, by definition, reign over my land. Likewise, both "my" and "my own" imply possession. However, the line tells more. The phrase "my own" asserts the land is not shared, managed for someone else, or subject to any external authority. Likewise, it purposely avoids implying rule or possession over denizens. It underscores the privacy and personal achievement of possession, where I am the king, the absolute sovereign. A metaphor more about possession of identity than avarice or status, or external validation.
 
-***
+---
 
 > *Facing tempest of dust, I'll fight until the end*
 
-***
+---
 
 Here, the focus is the first person singular. A sense of agency, responsibility, perspective, and scope. The possible opposition a tempest of dust. Using tempest immediately elevates the force beyond a simple wind storm. Comparatively, tempest implies violence, chaos, upheaval. Further, "dust" provides composition. The tempest is made of dust, its very substance, arguably supplanting wind instead of being its victim. Otherwise, maelstrom is likely a better word choice. This calls back to the prior rhythmic void, possible insight into Anthony's impression of the void of the liminal, a figurative dust storm to be braved in the pursuit of manifestation.
 
@@ -159,11 +160,11 @@ Specificity, precision, word choice, and tense matter. Dust isn’t neutral. It 
 
 "Until" implies a sort of stoicism and resilience in the conflict. And what is the end? Bitter defeat, glorious martyrdom, a perceived end, an endless battle, or something else entirely? Layers of complexity. The open-endedness forces me to confront my own assumptions of a meaningless battle. If there is no inherent meaning in overcoming, then the *act* of fighting becomes meaningful—it is integral to who I am regardless of outcome, it is part of my identity. A connection to the void and the fight, where there is no victory, only habituation. Filter the void, and find meaning beyond it.
 
-***
+---
 
 > *Creatures of my dreams raise up and dance with me*
 
-***
+---
 
 I have distinguished my identity from some creature, or have I? The choice "creature" is interesting, in that there are several divergent meanings. Most common being a sort of living being, whether animal, something unknown, mysterious, or monstrous. However, the etymology roots itself in creation—to make or create something into being. This adds a sense of subservience or dependence on a creator, which is another use of the word. Without my dreams, there are no creatures.
 
@@ -173,11 +174,11 @@ This is where "raise up" and "dance" comes in. The former implies agency on the 
 
 The "dance," a process of mutual understanding and harmony: a shared experience requiring connection and trust; movement not strictly governed by logic or reason, a surrender to rhythm. Not the control over, but the acceptance of these manifestations. Acceptance that my subconscious creations are part of my identity, where we each surrender our individual agency to a shared, calculated, and fluid intention. *Creatures* is plural, and the previous line implies a never-ending fight. This lends to the dance being cyclical or simultaneous; individually with a singular creature, multiple, or all.
 
-***
+---
 
 > *Now and forever, I'm your king*
 
-***
+---
 
 I establish sovereignty over my identity and accept the futility of conflict, but vow to oppose until some undefined end. I accept and surrender to manifestations of my subconscious, and eliminate any dependency between us to form a single, coordinated system. Then, rather than surrendering my sovereignty, I redefine it.
 
@@ -205,12 +206,12 @@ What does Shaun and his creature come up with? Build, fly, dream.
 
 The trailer is an extension of Outro's core themes, the song is not a soundtrack to fill silence. Song and footage explore the emotions, challenges, and process of creation; the struggle for self-definition; and the power of imagination. Attempting to articulate this connection solely through words feels inadequate. The emotional resonance is often found in the *spaces between* literal descriptions—in the subtle interplay of image and sound.
 
-***
+---
 
 > *Advice as you continue to read? I recommend following along: [KSP Build Fly Dream Trailer](https://www.youtube.com/watch?v=RkDOOsGg-9I){:target="_blank"}*
 {: .prompt-tip }
 
-***
+---
 
 ### A Single Brass Note
 
@@ -368,7 +369,7 @@ There will always be novelty, but only when imagination’s sake is primary. If 
 
 Outro shares this same fate: I agree with [Christopher Rosen](https://huffpost.com/entry/if-i-stay-m83-outro_n_5455356){:target="_blank"}, but with one qualification: please never use this song again… to sell me crap.[^16]
 
-***
+---
 
 ## Citation, Et Al.
 
