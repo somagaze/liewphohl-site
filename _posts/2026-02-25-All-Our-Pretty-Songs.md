@@ -136,7 +136,7 @@ Now this one... this dissociation thing, it's me... if I add a detail: mass cult
 
 "XKCD 2501. Okay, here we go...
 
-A man is born into an unjust world. Most are blind, he sees true. He is who he is, which is nothing to be ashamed of. Oppressors seek to purposely engrain survivorship bias in the masses... and they... err... they seek to place the burden of countering their bigotry and hate upon those who are oppressed. Umm... like, you know, 'why are there so many? They weren't around when I was younger; it must be a choice; it's unnatural; it wasn't like this in my time; think of the children; blah blah.' This man knew that, since the beginning of time and humanity itself, we've all existed together, labels or not... Okay, go!"
+A man is born into an unjust world. Most are blind, he sees true. He is who he is, which is nothing to be ashamed of. Oppressors seek to purposely engrain survivorship bias in the masses... and they... err... they seek to place the burden of countering their bigotry and hate upon those who are oppressed. Umm... like, you know, 'why are there so many? They weren't around when I was younger; it must be a choice; it's unnatural; it wasn't like this in my time; think of the children; blah blah...' This man knew that, since the beginning of time and humanity itself, we've all existed together, labels or not... Okay, go!"
 
 > What else should I be?
 >
